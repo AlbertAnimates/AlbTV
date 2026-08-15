@@ -68,6 +68,23 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 
 ---
 
+## 🧪 Tested on
+*Does it actually play? Here's where we've confirmed it works. The Welcome!!! HLS channel is the picky one — plain `.m3u8` streams work almost everywhere, but the HLS trailer needs a player that handles GitHub-Pages-hosted manifests.*
+
+| Device / Player | Russia-1 / NTV etc. (m3u8) | 📺 Welcome!!! (HLS) | Notes |
+|---|---|---|---|
+| **CODECS** (Android) | ✅ | ✅ | Where the list was built — fully works |
+| **VLC** (Android) | ✅ | ✅ | Plays everything, including HLS |
+| **VLC** (Desktop) | ✅ | ✅ | Most reliable for HLS |
+| **TiviMate** (Android TV) | ✅ | ⚠️ | _not tested yet_ |
+| **IPTV Smarters** | ✅ | ❓ | _not tested yet_ |
+| **Smart TV (Samsung/LG)** | ✅ | ❓ | _Before 404_ |
+| **Your box / phone** | ✅ | ❓ | _uhm_ |
+
+**Legend:** ✅ works · ⚠️ partial / buffers · ❌ won't play · ❓ untested — *tell us!*
+
+> **Want to add your device?** The Welcome channel streams from `albertanimates.github.io` (GitHub Pages). If your player/network blocks GitHub or doesn't support HLS, that slot may fail even when the rest of the list works fine — that's the "in some connections" caveat. Open an issue or ping me with your player + country and I'll add it to the table.
+
 <div align="center">
 
 ### Built at 2 AM · Curated by hand · Validated by robot 🤖
