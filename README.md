@@ -20,7 +20,7 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 ## ⚡ Quick start
 Grab the playlist and paste it into any player (VLC, CODECS, TiviMate, or whatever
 ```
-https://AlbertAnimates.github.io/AlbTV.m3u
+https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/russia.m3u
 ```
 
 Want just one region?
