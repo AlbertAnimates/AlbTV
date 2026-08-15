@@ -1,8 +1,11 @@
 #EXTM3U
 #PLAYLIST:My IPTV lol
 
-#EXTINF:-1 tvg-id="AlbTV.welcome" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="AlbTV",Welcome to AlbTV (1080p)
+#EXTINF:-1 tvg-id="AlbTV.welcome" group-title="AlbTV",Welcome to AlbTV (1080p)
 https://albertanimates.github.io/AlbTV/master.m3u8?v=2
+
+#EXTINF:-1 tvg-id"albtv.fun" group-title="AlbTV",Hope u have fun
+https://Google.com
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
