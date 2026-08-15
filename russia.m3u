@@ -1,5 +1,8 @@
 #EXTM3U
-#PLAYLIST:My IPTV Selection
+#PLAYLIST:My IPTV lol
+
+#EXTINF:-1 tvg-id="AlbTV.welcome" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="AlbTV",📺 Welcome!!! (1440p)
+https://github.com/AlbertAnimates/AlbTV/releases/download/Idktag/trailer.mp4
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
