@@ -1,0 +1,33 @@
+name: nightly stream validation
+on:
+  schedule:
+    - cron: '0 3 * * *'      # 3:00 AM UTC every night (tweak to your timezone)
+  workflow_dispatch: {}       # manual "Run workflow" button too
+
+permissions:
+  contents: write             # lets the bot commit its changes
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+
+      - run: pip install requests
+
+      - run: python validate.py
+
+      - name: commit updated playlist
+        run: |
+          git config user.name "AlbTV Bot"
+          git config user.email "bot@albtv.local"
+          git add russia.m3u
+          if git diff --cached --quiet; then
+            echo "no changes — all streams still match"
+          else
+            git commit -m "chore: nightly validation 🤖 ($(date -u +%Y-%m-%d))"
+            git push
+          fi
