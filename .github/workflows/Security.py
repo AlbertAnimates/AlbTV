@@ -2,7 +2,7 @@ import re
 import requests
 from datetime import datetime
 
-M3U = "russia.m3u"
+M3U = "russia.m3u","albanian.m3u"
 TIMEOUT = 12          # seconds to wait per stream
 HEADERS = {"User-Agent": "VLC/3.0.20"}   # some CDNs reject bare python requests
 
