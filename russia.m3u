@@ -2569,3 +2569,16 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
+#EXTINF:-1 tvg-id="wtf" tvg-name="--" group-title="Placeholders",--
+#EXTINF:-1 tvg-id="bridge" tvg-name="Bridge TV" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge TV
+http://178.57.121.38:8080/bridgetv/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="bridge-hits" tvg-name="Bridge Hits" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Hits
+http://86.57.198.251:8181/play/1041/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-russian" tvg-name="Bridge Russian Hit" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Russkiy Hit
+http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 tvg-id="bridge-classic" tvg-name="Bridge Classic" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
