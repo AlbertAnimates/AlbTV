@@ -720,3 +720,256 @@ https://ulytau.tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="General",Новое телевидение (576p) [Not 24/7]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ch1316" tvg-name="Yosso TV 4K" tvg-logo="https://hls.gd/images/chIcons/1316.png" tvg-rec="3", Yosso TV 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1316/mono.m3u8?token=hddbghbgg.v2_n_rqkEqa_Fw7-1-NmTtRQwsYfmwa2gkgPq8Vcrx3SiigxEpRxbY8OX7XcKcMuwCQmwKAMdZmkWZL7g
+#EXTINF:0 tvg-id="ch2063" tvg-name="Yosso TV Советские фильмы 4K" tvg-logo="https://hls.gd/images/chIcons/2063.png" tvg-rec="3", Yosso TV Советские фильмы 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2063/mono.m3u8?token=hddbghbgg.v2_eI9ITY6DrrQgOnH8xKVnjgdjhXMo7LOIIT0sH7wFmlk7ZYGefQp6f5Q9EoXJDRKyqB1x_oSc5a4pJQ
+#EXTINF:0 tvg-id="ch2295" tvg-name="BOX Music 4K" tvg-logo="https://hls.gd/images/chIcons/2295.png" tvg-rec="0", BOX Music 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2295/mono.m3u8?token=hddbghbgg.v2_tOar-vDLSq3gK6n0V5xRi-NiyT4VaxANavrnJFaDiEAGpMzAMb5kKUufTzS2aEv0wlVlnVZzFmxyTA
+#EXTINF:0 tvg-id="ch2259" tvg-name="BOX Music 2 4K" tvg-logo="https://hls.gd/images/chIcons/2259.png" tvg-rec="0", BOX Music 2 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2259/mono.m3u8?token=hddbghbgg.v2_xdrlKlGpDY8VjsV6rLg8F69PHzTUx7KYJTcjqV5TDBYRuNzbFhEls3J4EIYf6i-LRw-ks7zC4q2L9A
+#EXTINF:0 tvg-id="ch2931" tvg-name="BOX UltraStars 4K" tvg-logo="https://hls.gd/images/chIcons/2931.png" tvg-rec="3", BOX UltraStars 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2931/mono.m3u8?token=hddbghbgg.v2_jQGTqHqJeWE4EnnCsbbN2DJqIXifxEDGillcCuhu5s5d0tSwFzsi8Iea56ox54v97B_LUZ098xYr8A
+#EXTINF:0 tvg-id="ch2297" tvg-name="BOX Premiere 4K" tvg-logo="https://hls.gd/images/chIcons/2297.png" tvg-rec="3", BOX Premiere 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2297/mono.m3u8?token=hddbghbgg.v2_VDcqZmmj6hYKkTTbDVHEqYoI2Q0p3wfzewOIdqAQae8e5NcpN39v7m9K0qrWI5vhahUIRtlBpFIX1Q
+#EXTINF:0 tvg-id="ch2298" tvg-name="BOX Relax 4K" tvg-logo="https://hls.gd/images/chIcons/2298.png" tvg-rec="3", BOX Relax 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2298/mono.m3u8?token=hddbghbgg.v2_3qdYQ-EglDSQmAjilxrG9qm7uyzmCjFSv3c_xdjCwpwKHr-oHf3HDlAdkUOBjKZtv-ArK7Btzk0Psg
+#EXTINF:0 tvg-id="ch2299" tvg-name="BOX Remast 4K" tvg-logo="https://hls.gd/images/chIcons/2299.png" tvg-rec="3", BOX Remast 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2299/mono.m3u8?token=hddbghbgg.v2_HGZ0lZzgO8U74o8aoJGo5UhahUl40mhNF4jsSM-UtiuEvKBBXuUzkarNllVfSzg23D0EUn5LAOn9Ng
+#EXTINF:0 tvg-id="ch2707" tvg-name="BOX Remast+ 4K" tvg-logo="https://hls.gd/images/chIcons/2707.png" tvg-rec="3", BOX Remast+ 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2707/mono.m3u8?token=hddbghbgg.v2_8Fady4o4A6BYVGd8emrM61gtmQWXjtzg3J6GTovoxnRy6Rwdz9yhVeSEVB1j8z_TugnYH47CgaJ8pQ
+#EXTINF:0 tvg-id="ch2300" tvg-name="BOX Serial 4K" tvg-logo="https://hls.gd/images/chIcons/2300.png" tvg-rec="3", BOX Serial 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2300/mono.m3u8?token=hddbghbgg.v2_g6wMZ5X0mRGjSL_MJD5qnrfDdz7KVRIMixDt3WSRddvYWE18QWdgV6PGWjlhJQxIRjYAzaZpkVs07g
+#EXTINF:0 tvg-id="ch2926" tvg-name="BOX СССР 4K" tvg-logo="https://hls.gd/images/chIcons/2926.png" tvg-rec="3", BOX СССР 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2926/mono.m3u8?token=hddbghbgg.v2_oVAXJdmPnsb_AwR7X4owK8CDqb-Aa8S7VoTeKtepC2k9sFvPiyiHhw7_CqIkp1DOPvH8eai1adilmw
+#EXTINF:0 tvg-id="ch1949" tvg-name="BOX Russian 4K" tvg-logo="https://hls.gd/images/chIcons/1949.png" tvg-rec="3", BOX Russian 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1949/mono.m3u8?token=hddbghbgg.v2_VPRv7jgssfhulXU_lZFJJ1u2zQFFRj7E28gTToXd4jxkGNEgQ3Vwlz3as_HjUIVyi0vX8jCKmhE4sQ
+#EXTINF:0 tvg-id="ch2311" tvg-name="CineMan Relax 4K" tvg-logo="https://hls.gd/images/chIcons/2311.png" tvg-rec="0", CineMan Relax 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2311/mono.m3u8?token=hddbghbgg.v2_tpkGNz2XQbYzbsHdZldxDWPvTBwAmGy4on4F46RHEa2sW7O9PReuliHWJP7TFyqCBOQDfN7UOxUL3A
+#EXTINF:0 tvg-id="ch2310" tvg-name="Cineman OLD 4K" tvg-logo="https://hls.gd/images/chIcons/2310.png" tvg-rec="3", Cineman OLD 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2310/mono.m3u8?token=hddbghbgg.v2__EuMx_u_TfWcb4aJs6FTJmxAZ92GQ3n2dss4pOrYeWn_H3j2MelURYqrNnbow6GVoqfWOvSDGZuHsg
+#EXTINF:0 tvg-id="ch2922" tvg-name="CineMan CCCP 4K" tvg-logo="https://hls.gd/images/chIcons/2922.png" tvg-rec="3", CineMan CCCP 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2922/mono.m3u8?token=hddbghbgg.v2_ecBM1dxaWxgRiAiBentcg7me8H-MGjWA91-TlbEGlU9ps4C7oGfATPqq9fxeOS9iXgq7oZEidV9QHQ
+#EXTINF:0 tvg-id="ch3049" tvg-name="CineMan Kids 4K" tvg-logo="https://hls.gd/images/chIcons/3049.png" tvg-rec="3", CineMan Kids 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch3049/mono.m3u8?token=hddbghbgg.v2_mSOXN6zS19bpujfvW5y1RHv4wLZ1Qov0ricY0U5Lget5BkNfAWFEh9saK6ICKoNQEWBODMZB4K1fgw
+#EXTINF:0 tvg-id="ch3135" tvg-name="Velilla TV Cinema 4K" tvg-logo="https://hls.gd/images/chIcons/3135.png" tvg-rec="3", Velilla TV Cinema 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch3135/mono.m3u8?token=hddbghbgg.v2_Y9kQBBNgQBY_QzEOIFoyCbTod6zwCBnePJMczIms7zg-gjI3tAN6nAsMWIZDBqV9G0YcUaBKgCuVGQ
+#EXTINF:0 tvg-id="ch1617" tvg-name="Velilla TV The X - Files 4K" tvg-logo="https://hls.gd/images/chIcons/1617.png" tvg-rec="3", Velilla TV The X - Files 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1617/mono.m3u8?token=hddbghbgg.v2_2b9x2bhyFgiVYbwtnwWNp1MK9cRjCn7CQlwMiR-W2V1uLvlCJI6IM9jS6g2h7J1AowSFixf8VjtcSA
+#EXTINF:0 tvg-id="ch4171" tvg-name="Velilla TV CatTV 4K" tvg-logo="https://hls.gd/images/chIcons/4171.png" tvg-rec="0", Velilla TV CatTV 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch4171/mono.m3u8?token=hddbghbgg.v2_6ofzcjBZcJKjjZo9kNs_vLTORlVdQdx2Ed0PQUS9eIKPMcaqUiNuVJLpBd-XdAUeK2CwyOcc_JGdLw
+#EXTINF:0 tvg-id="ch4084" tvg-name="KLI UHD 4k" tvg-logo="https://hls.gd/images/chIcons/4084.png" tvg-rec="3", KLI UHD 4k
+#EXTGRP:1. UHD
+https://16.hls.gd/ch4084/mono.m3u8?token=hddbghbgg.v2_9KPbw9lck55z2QHEilSJAXydGy1tDcVCOKcdNJXuPVTTUeX1e9JAP039C5usgocZuVmBSLzjhwLbGQ
+#EXTINF:0 tvg-id="ch4089" tvg-name="KLI Новинки 4k" tvg-logo="https://hls.gd/images/chIcons/4089.png" tvg-rec="3", KLI Новинки 4k
+#EXTGRP:1. UHD
+https://16.hls.gd/ch4089/mono.m3u8?token=hddbghbgg.v2_YiLtYvdg0YzBPsUHAoWxK-ZQMc294Vkq2FARvSKymrKX8bYKtlefJdbKogb2lodK2KxkH7Ez1yZ1uA
+#EXTINF:0 tvg-id="ch2706" tvg-name="BCU Premiere HDR" tvg-logo="https://hls.gd/images/chIcons/2706.png" tvg-rec="3", BCU Premiere HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2706/mono.m3u8?token=hddbghbgg.v2_Vh4GYHmXp1rYduFMKTXqMrOsvrDTma8HyFi6jG00_mB9B6vMQ4tmj_o0li4RzuEuiG9w0kAvi-6XQA
+#EXTINF:0 tvg-id="ch2745" tvg-name="BCU Premiere 1 HDR" tvg-logo="https://hls.gd/images/chIcons/2745.png" tvg-rec="3", BCU Premiere 1 HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2745/mono.m3u8?token=hddbghbgg.v2_bxEZKUS79_fIrl7Ezsqc6yUfQudEVEFTYeWrhV8WMm5m_dKikr8ai7vOAwa082C-KcMcMCpC9bglVQ
+#EXTINF:0 tvg-id="ch2746" tvg-name="BCU Premiere 2 HDR" tvg-logo="https://hls.gd/images/chIcons/2746.png" tvg-rec="3", BCU Premiere 2 HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2746/mono.m3u8?token=hddbghbgg.v2_eSU0s9gllEQbZ5EkPclY5jAeTpAhZ2adE5gRVeKoZMyEbRt8qk3Gn9IVvxJhLfwFQC8H-_TcWDabMA
+#EXTINF:0 tvg-id="ch2747" tvg-name="BCU Premiere 3 HDR" tvg-logo="https://hls.gd/images/chIcons/2747.png" tvg-rec="3", BCU Premiere 3 HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2747/mono.m3u8?token=hddbghbgg.v2_nMfcrYwZSxJzrT6lgCRoF_f9Z4jBeoPMBFNb3-X6FObwqFCEG6fsD2Y_n3x_Cwk-uR1XoFN5kR5N7g
+#EXTINF:0 tvg-id="ch2705" tvg-name="BCU Fantastic HDR" tvg-logo="https://hls.gd/images/chIcons/2705.png" tvg-rec="3", BCU Fantastic HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2705/mono.m3u8?token=hddbghbgg.v2_n63tLcntGCkTXtWdMVCRAwr08W7iuCKEigYa8v7_uNul9WjF-DnvkiJSqKE0ngEezMcGsFcCSLtyBA
+#EXTINF:0 tvg-id="ch772" tvg-name="BCU Comedy HDR" tvg-logo="https://hls.gd/images/chIcons/772.png" tvg-rec="3", BCU Comedy HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch772/mono.m3u8?token=hddbghbgg.v2_XH4V99tQq01FxF_OI_7DDvqMPBCno55IhwNHi_81IkuwkwHP0A7Sm5J3GOFZn0zKrHufU_6yBgKC
+#EXTINF:0 tvg-id="ch1003" tvg-name="BCU Cosmo HDR" tvg-logo="https://hls.gd/images/chIcons/1003.png" tvg-rec="3", BCU Cosmo HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch1003/mono.m3u8?token=hddbghbgg.v2_v1eFpST9reywtPbO4OFYDhLwi8oRtprvzj71fvx_4VROnKjfWIl1WOp44b_HX0wKt8hWPRWggprccg
+#EXTINF:0 tvg-id="ch3843" tvg-name="BCU Media 2 HDR" tvg-logo="https://hls.gd/images/chIcons/3843.png" tvg-rec="3", BCU Media 2 HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3843/mono.m3u8?token=hddbghbgg.v2_eS6SGISw4FDAPxQ6x7h6p7T_E6GpgHZs2ZLzXC3bSI_yy-sSivfp97SsxBEyZLcrRWwv4Ke8-F7QvQ
+#EXTINF:0 tvg-id="ch3841" tvg-name="BCU Media 3 HDR" tvg-logo="https://hls.gd/images/chIcons/3841.png" tvg-rec="3", BCU Media 3 HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3841/mono.m3u8?token=hddbghbgg.v2_5LhATWzWT6INXxe_-lTNKam1ZjKOq7iG0zLCVF8ftkLx9NjgeX2yem6yz-wsFKaqNP39BMcjlTybdA
+#EXTINF:0 tvg-id="ch3309" tvg-name="BCU Biography HDR" tvg-logo="https://hls.gd/images/chIcons/3309.png" tvg-rec="3", BCU Biography HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3309/mono.m3u8?token=hddbghbgg.v2_YHGinqwq-ZmuVI-GkNN_SKEkx-g8A7UKKfluDYIF1w1B9Vxx5l6UXR49vaBj-rX9s9HfEZUEno0ZOg
+#EXTINF:0 tvg-id="ch2288" tvg-name="BOX Franchise HDR" tvg-logo="https://hls.gd/images/chIcons/2288.png" tvg-rec="3", BOX Franchise HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2288/mono.m3u8?token=hddbghbgg.v2_jsH-x0csxZEEkMjHV-MJ4MIGNf_WsJoZpVRVh7HWSF4GkJVTBco_DLj6sM6ScbyTU52z_mb_DVUPfg
+#EXTINF:0 tvg-id="ch2312" tvg-name="BOX Kosmo 4K HDR" tvg-logo="https://hls.gd/images/chIcons/2312.png" tvg-rec="3", BOX Kosmo 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2312/mono.m3u8?token=hddbghbgg.v2_79mwG9tQ0V26zn9pnz90aYCQ3B6aFMEhTtmOyhE9aho2HS4cuXslahxT1qD-NMZJU0aBrowwMG5NiA
+#EXTINF:0 tvg-id="ch2929" tvg-name="BOX History 4K HDR" tvg-logo="https://hls.gd/images/chIcons/2929.png" tvg-rec="3", BOX History 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2929/mono.m3u8?token=hddbghbgg.v2_5udBbPydmQmsCkhBjMf3pOV0jB2lcuHZ_q18hzlMoMxVm4tN9GDvlDmQaorI67lUK8S2AON3WpIH9A
+#EXTINF:0 tvg-id="ch2033" tvg-name="BOX Serial Premiere 4K HDR" tvg-logo="https://hls.gd/images/chIcons/2033.png" tvg-rec="3", BOX Serial Premiere 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch2033/mono.m3u8?token=hddbghbgg.v2_NAt5E8rtYhjV-j0bkFEsi4eSALzB01LGJbd7zFJMgtetmou3hSw0tsNcLt21gY1HiTPpJKw_rw2K0g
+#EXTINF:0 tvg-id="ch496" tvg-name="Yosso TV 4K HDR" tvg-logo="https://hls.gd/images/chIcons/496.png" tvg-rec="3", Yosso TV 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch496/mono.m3u8?token=hddbghbgg.v2_gJayJAyR2RRoAp0-gLqjBjNHAbmn2FiVyG5cW8YcisOWVF2aZ0BPO1lydYUB2XKJmCs1udMpDgZb
+#EXTINF:0 tvg-id="ch1980" tvg-name="Sky High Nature HDR" tvg-logo="https://hls.gd/images/chIcons/1980.png" tvg-rec="3", Sky High Nature HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch1980/mono.m3u8?token=hddbghbgg.v2_c4u6s7coaVpl9C0meco-BC2kOpHhLzlOeoOSghRRCjTvQWvTLbEsy_d7wBQpibJIG3-T-2V8XPAz_w
+#EXTINF:0 tvg-id="ch1968" tvg-name="Sky High Space 4K HDR" tvg-logo="https://hls.gd/images/chIcons/1968.png" tvg-rec="3", Sky High Space 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch1968/mono.m3u8?token=hddbghbgg.v2_MZE2YmmqvnrdxsGA_2CxXC-eN3OxJgMLK4ZREVeFRflK6-sQyijgf057RhSBLq-nAuTJ38pZcpO3DQ
+#EXTINF:0 tvg-id="ch1977" tvg-name="Sky High Horror 4K HDR" tvg-logo="https://hls.gd/images/chIcons/1977.png" tvg-rec="3", Sky High Horror 4K HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch1977/mono.m3u8?token=hddbghbgg.v2_M8oeMz5QMFJOt7snrjxWr3vJji_9X9ecOfyQQwljqWz2EenJHkJhN6sMFRFDcGmt-ejvwNjQm3_9og
+#EXTINF:0 tvg-id="ch3435" tvg-name="Liberty Кино Хит 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3435.png" tvg-rec="3", Liberty Кино Хит 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3435/mono.m3u8?token=hddbghbgg.v2_dhR30Nnf0TOxhhkxCS1RZwaUKso2m0fn6P469apCYsKyOcEWSiETWSS7JiKP8reiGypiW1TFkHuNIA
+#EXTINF:0 tvg-id="ch3436" tvg-name="Liberty Оскар 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3436.png" tvg-rec="3", Liberty Оскар 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3436/mono.m3u8?token=hddbghbgg.v2_UXLAO9zlPfGmqCOV1rbohW__6KibU4jh1daXb4HqYQtfvJrqHBSOqI5Rr4ebkg6kPrBXRHlObzeD7w
+#EXTINF:0 tvg-id="ch3437" tvg-name="Liberty Боевики 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3437.png" tvg-rec="3", Liberty Боевики 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3437/mono.m3u8?token=hddbghbgg.v2_ACbyXgO8P1sSL1MiV5anGLdq-zGw5sh0w7OwK9cSO-wCGiqR4kCOy3KaVsgJndnVe7VMchBXGVENOg
+#EXTINF:0 tvg-id="ch3438" tvg-name="Liberty Приключения 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3438.png" tvg-rec="3", Liberty Приключения 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3438/mono.m3u8?token=hddbghbgg.v2_Td8wiiiF4uRnPuwXUieQU36-wDsUR7Un5BKoVslXr2hnL2GkOA3hjr6y1gNZCYYsxtbM3W--_hiBCA
+#EXTINF:0 tvg-id="ch3439" tvg-name="Liberty Фантастика 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3439.png" tvg-rec="3", Liberty Фантастика 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3439/mono.m3u8?token=hddbghbgg.v2_u3wmPrTUKO5PGsvj4b5Hb3J79EegemXTUshIyXXc-eQcPyLfUrWEkmp91YzYNihxYIJXJTFh2el6Lg
+#EXTINF:0 tvg-id="ch3440" tvg-name="Liberty Драма 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3440.png" tvg-rec="3", Liberty Драма 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3440/mono.m3u8?token=hddbghbgg.v2_WGYnTVCjfY_H6FErmL6PASaWZQjiwAC-nN2Lgekap6N8TbWHMgw8OAcLJ5Ml2N3ia_GH6gVMlfyZTQ
+#EXTINF:0 tvg-id="ch3441" tvg-name="Liberty Комедии 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3441.png" tvg-rec="3", Liberty Комедии 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3441/mono.m3u8?token=hddbghbgg.v2_qx9NWvcKFifUwJp04vojMhVcKOT2vWMsLeoTuen_YTJgnmoCLGTEY9IeGX9PBm1ukTM-XBew43x8OQ
+#EXTINF:0 tvg-id="ch3442" tvg-name="Liberty Ужасы 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3442.png" tvg-rec="3", Liberty Ужасы 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3442/mono.m3u8?token=hddbghbgg.v2_OLBrTeDMafoEorZoM8aZN4tnfaK0fncDvdaxHN0k5ALq7M8GXYIDsWzeWVtqle9jWq2LXaFWz0qAtA
+#EXTINF:0 tvg-id="ch3443" tvg-name="Liberty Скандинавия 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3443.png" tvg-rec="3", Liberty Скандинавия 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3443/mono.m3u8?token=hddbghbgg.v2_6LaZqUQ1kLwBaMTGtcLWJ0pr6d946maTXYyk11t1GaVPXlYFFo7fS10Xvq0uCri-SshPx2DtlB0DoQ
+#EXTINF:0 tvg-id="ch3444" tvg-name="Liberty Азия 4К HDR" tvg-logo="https://hls.gd/images/chIcons/3444.png" tvg-rec="3", Liberty Азия 4К HDR
+#EXTGRP:2. HDR
+https://16.hls.gd/ch3444/mono.m3u8?token=hddbghbgg.v2_2hdKiM7szmvUSHE12nC0LkK224dBmqXtKl_5-N0Fmg0gLbUjp1ruoEOZY8VkI-jJyztRvEO9kZyucw
+#EXTINF:0 tvg-id="ch511" tvg-name="Кино UHD" tvg-logo="https://hls.gd/images/chIcons/511.png" tvg-rec="3", Кино UHD
+#EXTGRP:1. UHD
+https://16.hls.gd/ch511/mono.m3u8?token=hddbghbgg.v2_k7UhHkWUVBFSqYvVpQdGzv4St_IUO0ad8R2_s7pb6hErBMXy765WOwg8Bub299ynECZy2zMBciVb
+#EXTINF:0 tvg-id="ch558" tvg-name="Cinema UHD" tvg-logo="https://hls.gd/images/chIcons/558.png" tvg-rec="3", Cinema UHD
+#EXTGRP:1. UHD
+https://16.hls.gd/ch558/mono.m3u8?token=hddbghbgg.v2_3rO2DOHUCxEBS-AzAWdg9p-suOCCAaaDutayWKHksIyUdAUd4R1QZlEdsfYcddhv3Wh8x0dDa7je
+#EXTINF:0 tvg-id="ch566" tvg-name="Глазами туриста 4K" tvg-logo="https://hls.gd/images/chIcons/566.png" tvg-rec="3", Глазами туриста 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch566/mono.m3u8?token=hddbghbgg.v2_WupQmq1HCk46cixSzEZMzNzd_dYUe-iLForoycDAlHE6KmmfrXASa6QtOY6eOliWBU_HvGMwgMeF
+#EXTINF:0 tvg-id="ch512" tvg-name="Insight UHD" tvg-logo="https://hls.gd/images/chIcons/512.png" tvg-rec="0", Insight UHD
+#EXTGRP:1. UHD
+https://16.hls.gd/ch512/mono.m3u8?token=hddbghbgg.v2_L0aYxJ1_w0QbydevrRnoktTbkuZ8hcaTgrCutAfNV15J11lnpsRWwkTsF0GrsdI6pW-i3VOzTswo
+#EXTINF:0 tvg-id="ch527" tvg-name="Museum UHD" tvg-logo="https://hls.gd/images/chIcons/527.png" tvg-rec="0", Museum UHD
+#EXTGRP:1. UHD
+https://16.hls.gd/ch527/mono.m3u8?token=hddbghbgg.v2_oYukgW-hefTPww1QT9HVOBs6joFgAAXgCs1WSy9cwgyk0mEs82uBm5GZxvLJmJckKLCMMOPbDL3f
+#EXTINF:0 tvg-id="ch613" tvg-name="Travelxp 4K" tvg-logo="https://hls.gd/images/chIcons/613.png" tvg-rec="0", Travelxp 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch613/mono.m3u8?token=hddbghbgg.v2_LpjLuSM9WbI_Nq2U2cRjFLpOMPa8npYSGwBc-heUzZgL8rOrlUyMFEXhrnCUWcWd0Zkl8vwfNSfr
+#EXTINF:0 tvg-id="ch654" tvg-name="Love Nature 4K" tvg-logo="https://hls.gd/images/chIcons/654.png" tvg-rec="0", Love Nature 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch654/mono.m3u8?token=hddbghbgg.v2_rSZZtgTEo7Xa2sTYlIKfhgPUTfKY-TPHskdvGHkxwuTaY2MRzBKT831aDI1J-bsW_vYQimTkNXFk
+#EXTINF:0 tvg-id="ch1041" tvg-name="Quadro 4K" tvg-logo="https://hls.gd/images/chIcons/1041.png" tvg-rec="0", Quadro 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1041/mono.m3u8?token=hddbghbgg.v2_08SI4YTovVSs41Opqf0sKZqzY7-i2pQKLRPg2kzVIkYGbq4dxRIiD62IbMCS8caUPJ9VKZFvDZWhvw
+#EXTINF:0 tvg-id="ch551" tvg-name="Home 4K" tvg-logo="https://hls.gd/images/chIcons/551.png" tvg-rec="0", Home 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch551/mono.m3u8?token=hddbghbgg.v2_RQQoAbdDhYsh1rIpNtqVT-7jCL237nD15ah-coXnkAqggaURHKmdNSYc7qkuJFgxnXyM4M_FjVx3
+#EXTINF:0 tvg-id="ch665" tvg-name="MyZen 4K" tvg-logo="https://hls.gd/images/chIcons/665.png" tvg-rec="0", MyZen 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch665/mono.m3u8?token=hddbghbgg.v2_PBP9VIaGL1ofH1SMIEmpGEpMN6dM3UMkJB5GGjGKQrJpSdD6Ue01sWUsHT8lVn8i2UnlWi0XrThv
+#EXTINF:0 tvg-id="ch849" tvg-name="BCU Ultra 4K" tvg-logo="https://hls.gd/images/chIcons/849.png" tvg-rec="3", BCU Ultra 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch849/mono.m3u8?token=hddbghbgg.v2__AtTvOgJuhm4wCRoRIKZOkuCseE8t2zzAzF6f02znYehdFhYULmgfpwTJ7jWBzl46C0tzyTqYI2y
+#EXTINF:0 tvg-id="ch1428" tvg-name="BCU Kids 4K" tvg-logo="https://hls.gd/images/chIcons/1428.png" tvg-rec="3", BCU Kids 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1428/mono.m3u8?token=hddbghbgg.v2_UIAWhz5mH_p5oV8CWP8hyPgWxUK2Ll7mHtb22CqnokMKcFlFX7G7MGi7A_rGgyb7KFxKZPRKVQmkbQ
+#EXTINF:0 tvg-id="ch553" tvg-name="BCU Premiere Ultra 4K" tvg-logo="https://hls.gd/images/chIcons/553.png" tvg-rec="3", BCU Premiere Ultra 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch553/mono.m3u8?token=hddbghbgg.v2_5NmRnuCgBEVJRrmC5QAcG5fXnz7ZuH-xqfD0vQsgG5C3Iec-EOzs4mZFgL6mBr3--a8l7rj-wUUd
+#EXTINF:0 tvg-id="ch1262" tvg-name="MM Flip UHD" tvg-logo="https://hls.gd/images/chIcons/1262.png" tvg-rec="3", MM Flip UHD
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1262/mono.m3u8?token=hddbghbgg.v2_vjofIWSKkY8485NAQirLIKKi2m_MkQ_5zyi-H9MfrCJyXlWUqTCkzDijVkek1KGyTBcUv2HA_zpnMQ
+#EXTINF:0 tvg-id="ch1763" tvg-name="Liberty КиноENG 4K" tvg-logo="https://hls.gd/images/chIcons/1763.png" tvg-rec="3", Liberty КиноENG 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1763/mono.m3u8?token=hddbghbgg.v2_qrXtWnNKj4NNAaWsCA6ABX8yrXg890zdEU31U97gT2wuvV7eSkIH-2r0hsNJJ9HndB5jl69cHdnbSw
+#EXTINF:0 tvg-id="ch1765" tvg-name="Liberty Легенда 4K" tvg-logo="https://hls.gd/images/chIcons/1765.png" tvg-rec="3", Liberty Легенда 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1765/mono.m3u8?token=hddbghbgg.v2_5OzMSCgtgX1TZsS-ZDCqBo4GCvZzZAoiGrnaIZeVDgKEAzoLGd8AvP1J7a55XXmkPJJnbFQAwtWHLA
+#EXTINF:0 tvg-id="ch1769" tvg-name="Liberty Русфильм 4K" tvg-logo="https://hls.gd/images/chIcons/1769.png" tvg-rec="3", Liberty Русфильм 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1769/mono.m3u8?token=hddbghbgg.v2_4kY3jU6K1bNfjoQL4rYNuBmj9N5c8m0TICKceF_2GUI0XblgNoLWdKMtjVy4bSkHA561V82bHUhk9g
+#EXTINF:0 tvg-id="ch1770" tvg-name="Liberty Кино Микс 4K" tvg-logo="https://hls.gd/images/chIcons/1770.png" tvg-rec="3", Liberty Кино Микс 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1770/mono.m3u8?token=hddbghbgg.v2_ZoD6D7GEmrRbcCYWdDNwrU32QQmAbKUtKJpemV77M_ZGCGYiYpbfrdb0u6XenwpE4QmSDXrTEzGaUg
+#EXTINF:0 tvg-id="ch1771" tvg-name="Liberty Мульт 4K" tvg-logo="https://hls.gd/images/chIcons/1771.png" tvg-rec="3", Liberty Мульт 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1771/mono.m3u8?token=hddbghbgg.v2_ZgS1fxB9od36L4nRY-PLhszj9VFt-QJPqzS8Vvnvx4R8LG0b80zAscrp6cpF-nBhq0tE1PblXwnBpw
+#EXTINF:0 tvg-id="ch1764" tvg-name="Liberty МультENG 4K" tvg-logo="https://hls.gd/images/chIcons/1764.png" tvg-rec="3", Liberty МультENG 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1764/mono.m3u8?token=hddbghbgg.v2_7x6sb7jBWYqIK4zwSwDG7gIr8C-tl_9Neqyzt-KyoKgA0FMmD5xhTwt6EVxqgi4FqMQFXQe1Q9VjNw
+#EXTINF:0 tvg-id="ch1772" tvg-name="Liberty Индия 4K" tvg-logo="https://hls.gd/images/chIcons/1772.png" tvg-rec="3", Liberty Индия 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1772/mono.m3u8?token=hddbghbgg.v2_SuCHUzeHqakMK2wmGgKAXaU39dnqSleKqt7ofT9h9jIaelv4bN_rWLfbIoqUjoX10De0gpocwhWqFw
+#EXTINF:0 tvg-id="ch1773" tvg-name="Liberty Netflix 4K" tvg-logo="https://hls.gd/images/chIcons/1773.png" tvg-rec="3", Liberty Netflix 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1773/mono.m3u8?token=hddbghbgg.v2_SFf3matP-ENP3YOdl66o1MsIHhuHtIcfLctDWtiJodsbfEWbEueQdRK3LsJUC4LvJ4v2sEZL-ggPew
+#EXTINF:0 tvg-id="ch1774" tvg-name="Liberty Куб 4K" tvg-logo="https://hls.gd/images/chIcons/1774.png" tvg-rec="3", Liberty Куб 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1774/mono.m3u8?token=hddbghbgg.v2_pSPyVHGlV3ZzQBLQ6agBUDPArHhInwdtFBxwpO2tbQgW1MWIe2HWDGzjxsdh_EZcddE_6DOcefMjjQ
+#EXTINF:0 tvg-id="ch1775" tvg-name="Liberty Семейный 4K" tvg-logo="https://hls.gd/images/chIcons/1775.png" tvg-rec="3", Liberty Семейный 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1775/mono.m3u8?token=hddbghbgg.v2_YhunaIV2O2uWm9YKjWihz7RkdkeLYJJHnLhcVQbr09D9uXzWyemiz1GNudOL6ORpT-opn0KM4qpNJg
+#EXTINF:0 tvg-id="ch1743" tvg-name="Liberty Триллеры 4K" tvg-logo="https://hls.gd/images/chIcons/1743.png" tvg-rec="3", Liberty Триллеры 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1743/mono.m3u8?token=hddbghbgg.v2_zqILz0s_VemgdhoANjH1-CC_syouEhEAowyHDyiABqebYl_QHoULrVr4zn79h4bA8BgEN-_fLxCTTg
+#EXTINF:0 tvg-id="ch1742" tvg-name="Liberty Ужасы 4K" tvg-logo="https://hls.gd/images/chIcons/1742.png" tvg-rec="3", Liberty Ужасы 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1742/mono.m3u8?token=hddbghbgg.v2_E5XkH2hGKv1G75beSwNLB08ao8mSh13Z8TQpWGTTfRltK2q33KCxbKa5XXq2z-sZsR9pDJt-J0ntGQ
+#EXTINF:0 tvg-id="ch1776" tvg-name="Liberty Туркфильм 4K" tvg-logo="https://hls.gd/images/chIcons/1776.png" tvg-rec="3", Liberty Туркфильм 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1776/mono.m3u8?token=hddbghbgg.v2_yGXCAmoGk_OsSkCImBgMe9kcruKsPwqY73hCVY_sEU6f2z9WDvfLSSa4uP31rJ-4EdjyxVA5uAlxXQ
+#EXTINF:0 tvg-id="ch1780" tvg-name="Liberty Союз 4K" tvg-logo="https://hls.gd/images/chIcons/1780.png" tvg-rec="3", Liberty Союз 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch1780/mono.m3u8?token=hddbghbgg.v2_OrZuHzEyAQ6IB-Py9Kz_st3g-NFRxPJeRpDFKAInFwaJy2rS4xWbRODHFEpJmbOMjAEiYfIDe8UUXQ
+#EXTINF:0 tvg-id="ch2458" tvg-name="Liberty XX Век 4K" tvg-logo="https://hls.gd/images/chIcons/2458.png" tvg-rec="3", Liberty XX Век 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2458/mono.m3u8?token=hddbghbgg.v2_oeYjECdUlZHhGT7eG59Nvvu7CfPHwG3R2Y9ew7uIFm3F4PDzUjX6ZQuAp1kFf7C6ildgNaWemYOZxA
+#EXTINF:0 tvg-id="ch2342" tvg-name="Liberty Criminal 4K" tvg-logo="https://hls.gd/images/chIcons/2342.png" tvg-rec="3", Liberty Criminal 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2342/mono.m3u8?token=hddbghbgg.v2_7WQa88h_xhZFZ7qyj44-ZGaKehV_f217Zk0zZHtBi9s3h8FphHFJbp6bwZbWXHVjb6mXtQgJ3z8eKg
+#EXTINF:0 tvg-id="ch2590" tvg-name="Liberty Аванпост 4K" tvg-logo="https://hls.gd/images/chIcons/2590.png" tvg-rec="3", Liberty Аванпост 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2590/mono.m3u8?token=hddbghbgg.v2_oySg8_mnsAsRZd9inPRzFTq7bnP8KyxCIu0yD-essLZ57QJyno1oNfrraVm5gph0KmV5QKI6mK_p2g
+#EXTINF:0 tvg-id="ch2787" tvg-name="Liberty Serialy 4K" tvg-logo="https://hls.gd/images/chIcons/2787.png" tvg-rec="3", Liberty Serialy 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2787/mono.m3u8?token=hddbghbgg.v2_993GsZduLEV6fTwltxuyQpyV5yQ87LucLRl_J04P8INpZ2XaNlJmCwEASFbhipaVhK8HDJRiXrRKqQ
+#EXTINF:0 tvg-id="ch2788" tvg-name="Liberty Dreamworks 4K" tvg-logo="https://hls.gd/images/chIcons/2788.png" tvg-rec="3", Liberty Dreamworks 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2788/mono.m3u8?token=hddbghbgg.v2_e_Bk6S43zgqD4kJ-2pdNpYmqBOegFB-6QkEaLcGtJ96oInzgwTUlFEz8a6bUF_NdlRNliYD-JRIaIg
+#EXTINF:0 tvg-id="ch2789" tvg-name="Liberty Мюзикл 4K" tvg-logo="https://hls.gd/images/chIcons/2789.png" tvg-rec="3", Liberty Мюзикл 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch2789/mono.m3u8?token=hddbghbgg.v2_t4DaXkFti5VwOO6ZO0xowbzu9AEB6nds3NM04mlAbnoEIxiJTUx1qab9Fzy4hpNPNA6hsm-OCH9pAg
+#EXTINF:0 tvg-id="ch3151" tvg-name="Liberty Medval 4K" tvg-logo="https://hls.gd/images/chIcons/3151.png" tvg-rec="3", Liberty Medval 4K
+#EXTGRP:1. UHD
+https://16.hls.gd/ch3151/mono.m3u8?token=hddbghbgg.v2_JAOS12ZwLDKzawBBnt9DJOiloejjagq1sBWGRdah_6THd-A0rgQsr6qMj5B91cpv_s-R_2UEXMJmYA
