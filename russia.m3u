@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-id="AlbTV.welcome" group-title="AlbTV",Welcome to AlbTV (1080p)
 https://albertanimates.github.io/AlbTV/master.m3u8?v=2
 
-#EXTINF:-1 tvg-id"albtv.fun" group-title="AlbTV",Hope u have fun
+#EXTINF:-1 tvg-id"albtv.fun" group-title="AlbTV",Hope u have fun (No stream, for decoration)
 https://Google.com
 
-#EXTINF:-1 tvg-id"tutorialvideo" group-title="AlbTV",How to set up
-https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/tutorials/playlist.m3u8?v=2
+#EXTINF:-1 tvg-id"tutorialvideo" group-title="AlbTV",How to set up AlbTV [Please watch!!!]
+https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/tutorials/tutorial.mp4
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
