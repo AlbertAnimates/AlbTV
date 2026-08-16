@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG"
+#EXTM3U x-tvg-url="https://iptvx.one/epg.xml.gz"
 #PLAYLIST:My IPTV lol
 
 #EXTINF:-1 tvg-id="AlbTV.welcome" group-title="AlbTV",Welcome to AlbTV (1080p)
