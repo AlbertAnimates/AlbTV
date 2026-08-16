@@ -10,8 +10,32 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 [![last validated](https://img.shields.io/github/last-commit/AlbertAnimates/albtv?label=last%20validated&style=for-the-badge)](../../commits/main)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![iptv-org](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)](https://github.com/iptv-org/iptv)
+---
+<p align="center">
+  <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/kz.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/kg.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/tj.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/uz.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/tm.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/am.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/az.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/ge.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/md.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/lv.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/lt.svg" width="48">
+  &nbsp;&nbsp;
+  <img src="https://hatscripts.github.io/circle-flags/flags/al.svg" width="48">
+</p>
 
-**Albanian 🇦🇱 · Russian 🇺 · and growing** — hand-curated, nightly-validated, forever free.
+<p align="center">
+  <strong>15 countries · ~514 channels · Albanian 🇦🇱 + the Russian-speaking world</strong><br>
+  Hand-curated from public broadcasters · validated nightly · zero pirated streams · forever free
+</p>
+---
 
 </div>
 
