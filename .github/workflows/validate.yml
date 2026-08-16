@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name "AlbTV Bot"
           git config user.email "bot@albtv.local"
-          git add russia.m3u
+          git add russia.m3u albania.m3u
           if git diff --cached --quiet; then
             echo "no changes — all streams still match"
           else
