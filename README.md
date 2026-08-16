@@ -6,7 +6,7 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 # 📡 AlbTV IPTV
 ### *147+ free channels. One penny a year. Zero pirated streams.*
 
-[![channels](https://img.shields.io/badge/channels-147+-brightgreen?style=for-the-badge)](albtv/russia.m3u)
+![channels](https://img.shields.io/badge/channels-<!--LIVE-->147+<!--/LIVE-->-brightgreen?style=for-the-badge)
 [![last validated](https://img.shields.io/github/last-commit/AlbertAnimates/albtv?label=last%20validated&style=for-the-badge)](../../commits/main)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![iptv-org](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)](https://github.com/iptv-org/iptv)
