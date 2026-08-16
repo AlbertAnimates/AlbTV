@@ -1,0 +1,26 @@
+name: live channel counter
+on:
+  schedule:
+    - cron: '30 3 * * *'      # 3:30 AM UTC, right after validation
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python counter.py
+      - name: commit badge
+        run: |
+          git config user.name "AlbTV Bot"
+          git config user.email "bot@albtv.local"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "count unchanged"
+          else
+            git commit -m "chore: update live channel count 🤖 ($(date -u +%Y-%m-%d))"
+            git push
+          fi
