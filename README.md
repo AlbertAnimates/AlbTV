@@ -71,6 +71,21 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 > - Check your local laws regarding IPTV playlist use.
 
 ---
+
+## 📺 It actually works
+*Real photos — AlbTV running on a Hisense TV via the CUB IPTV app, 16 August 2026.*
+
+| Loading the playlist | 203 channels, categorized | Russia-K in 1080p |
+|---|---|---|
+| ![load](1-load.jpg) | ![guide](2-guide.jpg) | ![play](3-russiak.jpg) |
+
+| Channel list with honest tags | On the living-room wall |
+|---|---|
+| ![list](4-list.jpg) | ![wall](5-wall.jpg) |
+
+---
+
+
 ## ❔ FAQ
 
 ### Where the channels came from?
