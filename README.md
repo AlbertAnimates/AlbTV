@@ -6,10 +6,16 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 # 📡 AlbTV IPTV
 ### *147+ free channels. One penny a year. Zero pirated streams.*
 
-![channels](https://img.shields.io/badge/channels-<!--LIVE-->147+<!--/LIVE-->-brightgreen?style=for-the-badge)
-[![last validated](https://img.shields.io/github/last-commit/AlbertAnimates/albtv?label=last%20validated&style=for-the-badge)](../../commits/main)
-[![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-[![iptv-org](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)](https://github.com/iptv-org/iptv)
+![Channels](https://img.shields.io/badge/channels-514-brightgreen?style=for-the-badge)
+![Countries](https://img.shields.io/badge/countries-15-blue?style=for-the-badge)
+![Last Validated](https://img.shields.io/badge/last%20validated-today-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=for-the-badge)
+![Streams via](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)
+![Pirated streams](https://img.shields.io/badge/pirated%20streams-0-red?style=for-the-badge)
+![Price](https://img.shields.io/badge/price-free%20forever-yellow?style=for-the-badge)
+![Pre-release](https://img.shields.io/badge/status-pre--release%200.4.5-yellowgreen?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/AlbertAnimates/AlbTV?include_prereleases&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/AlbertAnimates
 ---
 <p align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
