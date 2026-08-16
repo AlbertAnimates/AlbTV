@@ -14,9 +14,8 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 ![Pirated streams](https://img.shields.io/badge/pirated%20streams-0-red?style=for-the-badge)
 ![Price](https://img.shields.io/badge/price-free%20forever-yellow?style=for-the-badge)
 ![Pre-release](https://img.shields.io/badge/status-pre--release%200.4.5-yellowgreen?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/AlbertAnimates/AlbTV?include_prereleases&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/AlbertAnimates
----
+![Stars](https://img.shields.io/github/stars/AlbertAnimates/AlbTV?style=for-the-badge)
+
 <p align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48">
