@@ -7,7 +7,7 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 ### *147+ free channels. One penny a year. Zero pirated streams.*
 
 [![channels](https://img.shields.io/badge/channels-147+-brightgreen?style=for-the-badge)](playlists/all.m3u)
-[![last validated](https://img.shields.io/github/last-commit/YOU/albtv-iptv?label=last%20validated&style=for-the-badge)](../../commits/main)
+[![last validated](https://img.shields.io/github/last-commit/AlbertAnimates/albtv?label=last%20validated&style=for-the-badge)](../../commits/main)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![iptv-org](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)](https://github.com/iptv-org/iptv)
 
@@ -21,6 +21,10 @@ Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPT
 Grab the playlist and paste it into any player (VLC, CODECS, TiviMate, or whatever
 ```
 https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/russia.m3u
+```
+
+```
+https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/albanian.m3u
 ```
 
 Want just one region?
@@ -67,6 +71,22 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 > - Check your local laws regarding IPTV playlist use.
 
 ---
+## ❔ FAQ
+
+### Where the channels came from?
+All channels come from the open-source iptv-org/iptv project on GitHub - a community-maintained database of publicly available, legal IPTV streams from broadcasters worldwide. The database contains streams that broadcasters themselves make publicly accessible online, such as news organisations, public broadcasters and government channels. Streams are not hosted on our servers and we have no control over their availability.
+
+### Why the streams are unplayable?
+IPTV streams are maintained by individual broadcasters, not by us or the iptv-org project. Streams can go offline, change URL, require geographic access (geo-blocking), or become temporarily unavailable due to server load or rights changes. The iptv-org community updates stream URLs regularly but there will always be some that are temporarily broken.
+
+### Can you add a *V*ideo *O*n *D*emand (VOD) to the playlist?
+No.
+
+### How channels are updated?
+Adding channels from [Free Codecs](https://free-codecs.com) is important for your collab!
+
+
+---
 
 ## 🧪 Tested on
 *Does it actually play? Here's where we've confirmed it works. The Welcome!!! HLS channel is the picky one — plain `.m3u8` streams work almost everywhere, but the HLS trailer needs a player that handles GitHub-Pages-hosted manifests.*
@@ -84,6 +104,9 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 **Legend:** ✅ works · ⚠️ partial / buffers · ❌ won't play · ❓ untested — *tell us!*
 
 > **Want to add your device?** The Welcome channel streams from `albertanimates.github.io` (GitHub Pages). If your player/network blocks GitHub or doesn't support HLS, that slot may fail even when the rest of the list works fine — that's the "in some connections" caveat. Open an issue or ping me with your player + country and I'll add it to the table.
+
+
+
 
 <div align="center">
 
