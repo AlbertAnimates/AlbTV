@@ -18,7 +18,7 @@ jobs:
 
       - run: pip install requests
 
-      - run: python Security.py
+      - run: python validate.py
 
       - name: commit updated playlist
         run: |
