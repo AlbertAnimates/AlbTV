@@ -157,6 +157,24 @@ http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Music",BRIDGE Hits (576p)
 http://stream.mcquack.net/320/index.m3u8
 
+#EXTINF:-1 tvg-id="bridge" tvg-name="Bridge TV" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge TV
+http://bridgetv.ru
+
+#EXTINF:-1 tvg-id="bridge-hits" tvg-name="Bridge Hits" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Hits
+http://bridgetv.ru
+
+#EXTINF:-1 tvg-id="bridge-russian" tvg-name="Bridge Russian Hit" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Russkiy Hit
+http://bridgetv.ru
+
+#EXTINF:-1 tvg-id="bridge-shlager" tvg-name="Bridge Shlager" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Shlager
+http://bridgetv.ru
+
+#EXTINF:-1 tvg-id="bridge-fresh" tvg-name="Bridge Fresh" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Fresh
+http://bridgetv.ru
+
+#EXTINF:-1 tvg-id="bridge-classic" tvg-name="Bridge Classic" tvg-logo="https://bridgetv.ru" group-title="Music",Bridge Classic
+http://bridgetv.ru
+
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Music",Muz-TV (576p)
 http://46.32.176.50/muztv/index.m3u8
 
