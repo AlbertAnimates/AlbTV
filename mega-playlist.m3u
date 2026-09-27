@@ -3959,3 +3959,90 @@ https://tvoetv.space/tvoetv_humor/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Tvoe TV",Твоё ТВ HD Юмор v5
 https://tvoetv.space/tvoetv_humor/video.m3u8
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Radio Fresh
+https://fresh.amgradio.ru/Fresh?nc=624857
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", MUSIC BOX RADIO
+https://musicbox.amgradio.ru/musicbox?nc=26572
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Радио ENERGY
+https://pub0101.101.ru:8000/stream/air/mp3/256/99
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Джем FM
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Дорожное радио
+https://dorognoe.hostingradio.ru/radio
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Радио Дача
+https://ic1.radiosignal.one/vanya
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Пионер FM
+https://listen10.myradio24.com/pionerfm
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", Гоп FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+
+#EXTINF:-1 group-title="polzafre:ПОПСА", PriMuzFM
+https://listen2.myradio24.com/8118
+
+#EXTINF:-1 group-title="polzafre:ТАНЦЫ-КЛУБ", Dance One
+https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
+
+#EXTINF:-1 group-title="polzafre:ТАНЦЫ-КЛУБ", Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+
+#EXTINF:-1 group-title="polzafre:ТАНЦЫ-КЛУБ", Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+
+#EXTINF:-1 group-title="polzafre:ТАНЦЫ-КЛУБ", Relax FM Gold
+https://pub0201.101.ru/stream/trust/mp3/128/266
+
+#EXTINF:-1 group-title="polzafre:РЕТРО", Ретро FM
+https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
+
+#EXTINF:-1 group-title="polzafre:РЕТРО", Радио Кассета
+https://ppr90.status-media.ru/kasseta.mp3
+
+#EXTINF:-1 group-title="polzafre:РЕТРО", Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya?60f0
+
+#EXTINF:-1 group-title="polzafre:HIP-HOP", 00s Hip Hop
+https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
+#EXTINF:-1 group-title="polzafre:HIP-HOP", Urban - Европа Плюс
+https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+
+#EXTINF:-1 group-title="polzafre:HIP-HOP", Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+
+#EXTINF:-1 group-title="polzafre:PSYTRANCE", BOM Psytrance
+https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
+#EXTINF:-1 group-title="polzafre:PSYTRANCE", Relax FM
+https://pub0302.101.ru:8000/stream/air/mp3/256/200
+
+#EXTINF:-1 group-title="polzafre:РОК-МУЗЫКА", Радио 13
+http://play.radio13.ru/96
+
+#EXTINF:-1 group-title="polzafre:РОК-МУЗЫКА", Metallica - Радио Maximum
+https://metallica.hostingradio.ru/metallica96.aacp
+
+#EXTINF:-1 group-title="polzafre:ЮМОР", Comedy Radio
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_comedy_31
+
+#EXTINF:-1 group-title="polzafre:НОВОСТИ", Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+
+#EXTINF:-1 group-title="polzafre:РАЗНОЕ", Радио Радонеж
+https://icecast-radonezh.cdnvideo.ru/rad128
+
+#EXTINF:-1 group-title="polzafre:РАЗНОЕ", Воскресение
+https://inra3.pravradio.ru/stream.mp3
+
+#EXTINF:-1 group-title="polzafre:ДЕТСКОЕ", СКАЗКА FM
+http://skazka.amgradio.ru/Skazka
+
+#EXTINF:-1 group-title="polzafre:ДЕТСКОЕ", KIDS
+https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
