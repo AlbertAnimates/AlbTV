@@ -6801,3 +6801,392 @@ https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 
 #EXTINF:-1 tvg-id="TVASTA.pl@SD" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="General",TV ASTA (720p)
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="zo_r_tv_hd@HD" group-title="iptv-24",Zo'r TV HD
+https://s1.iptv-24.net/1016/index.m3u8
+#EXTINF:-1 tvg-id="setanta_sports_1@HD" group-title="iptv-24",Setanta Sports 1
+https://s1.iptv-24.net/1263/index.m3u8
+#EXTINF:-1 tvg-id="setanta_sports_2@HD" group-title="iptv-24",Setanta Sports 2
+https://s1.iptv-24.net/1264/index.m3u8
+#EXTINF:-1 tvg-id="pervyy@SD" group-title="iptv-24",Первый
+https://s1.iptv-24.net/1019/index.m3u8
+#EXTINF:-1 tvg-id="rossiya1@SD" group-title="iptv-24",Россия 1
+https://s1.iptv-24.net/1020/index.m3u8
+#EXTINF:-1 tvg-id="itv_cinema@HD" group-title="iptv-24",iTV Cinema
+https://s1.iptv-24.net/4000/index.m3u8
+#EXTINF:-1 tvg-id="qiziq_tv@HD" group-title="iptv-24",Qiziq TV
+https://s1.iptv-24.net/1291/index.m3u8
+#EXTINF:-1 tvg-id="retro_tv@HD" group-title="iptv-24",Retro TV
+https://s1.iptv-24.net/1290/index.m3u8
+#EXTINF:-1 tvg-id="ntv@SD" group-title="iptv-24",НТВ
+https://s1.iptv-24.net/1023/index.m3u8
+#EXTINF:-1 tvg-id="rossiya24@SD" group-title="iptv-24",Россия 24
+https://s1.iptv-24.net/1021/index.m3u8
+#EXTINF:-1 tvg-id="sportuz@SD" group-title="iptv-24",Uz Sport
+https://s1.iptv-24.net/1004/index.m3u8
+#EXTINF:-1 tvg-id="itv_music@HD" group-title="iptv-24",iTV Music
+https://s1.iptv-24.net/4001/index.m3u8
+#EXTINF:-1 tvg-id="milliytv@HD" group-title="iptv-24",MilliyTV
+https://s1.iptv-24.net/1014/index.m3u8
+#EXTINF:-1 tvg-id="tv3@SD" group-title="iptv-24",ТВ3
+https://s1.iptv-24.net/1435/index.m3u8
+#EXTINF:-1 tvg-id="pervyy_hd@HD" group-title="iptv-24",Первый HD
+https://s1.iptv-24.net/1214/index.m3u8
+#EXTINF:-1 tvg-id="zvezda@SD" group-title="iptv-24",Звезда
+https://s1.iptv-24.net/1050/index.m3u8
+#EXTINF:-1 tvg-id="euronews@SD" group-title="iptv-24",EuroNews
+https://s1.iptv-24.net/1024/index.m3u8
+#EXTINF:-1 tvg-id="kinoxit@SD" group-title="iptv-24",Кинохит
+https://s1.iptv-24.net/1055/index.m3u8
+#EXTINF:-1 tvg-id="kinopremera_hd@HD" group-title="iptv-24",Кинопремьера HD
+https://s1.iptv-24.net/1207/index.m3u8
+#EXTINF:-1 tvg-id="rodnoe_kino@SD" group-title="iptv-24",Родное кино
+https://s1.iptv-24.net/1052/index.m3u8
+#EXTINF:-1 tvg-id="nashe_novoe_kino@SD" group-title="iptv-24",Наше новое кино
+https://s1.iptv-24.net/1051/index.m3u8
+#EXTINF:-1 tvg-id="kinoseriya@HD" group-title="iptv-24",Киносерия
+https://s1.iptv-24.net/1235/index.m3u8
+#EXTINF:-1 tvg-id="kinosemya@SD" group-title="iptv-24",Киносемья
+https://s1.iptv-24.net/1234/index.m3u8
+#EXTINF:-1 tvg-id="kinosvidanie@SD" group-title="iptv-24",Киносвидание
+https://s1.iptv-24.net/1203/index.m3u8
+#EXTINF:-1 tvg-id="kinomiks_hd@HD" group-title="iptv-24",Киномикс HD
+https://s1.iptv-24.net/1233/index.m3u8
+#EXTINF:-1 tvg-id="kinokomediya_hd@HD" group-title="iptv-24",Кинокомедия
+https://s1.iptv-24.net/1232/index.m3u8
+#EXTINF:-1 tvg-id="indiyskoe_kino@SD" group-title="iptv-24",Индийское кино
+https://s1.iptv-24.net/1060/index.m3u8
+#EXTINF:-1 tvg-id="mujskoe_kino@HD" group-title="iptv-24",Мужское кино
+https://s1.iptv-24.net/1237/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz@SD" group-title="iptv-24",Кинопоказ
+https://s1.iptv-24.net/1057/index.m3u8
+#EXTINF:-1 tvg-id="tv1000_russkoe_kino@SD" group-title="iptv-24",TV1000 Русское кино
+https://s1.iptv-24.net/1059/index.m3u8
+#EXTINF:-1 tvg-id="cinema_tv@SD" group-title="iptv-24",Cinema TV
+https://s1.iptv-24.net/1227/index.m3u8
+#EXTINF:-1 tvg-id="tv_1000_new@SD" group-title="iptv-24",TV 1000
+https://s1.iptv-24.net/1058/index.m3u8
+#EXTINF:-1 tvg-id="tv1000_action_hd@SD" group-title="iptv-24",TV1000 Action HD
+https://s1.iptv-24.net/1225/index.m3u8
+#EXTINF:-1 tvg-id="hollywood@SD" group-title="iptv-24",Hollywood
+https://s1.iptv-24.net/1443/index.m3u8
+#EXTINF:-1 tvg-id="bollywood@SD" group-title="iptv-24",Bollywood
+https://s1.iptv-24.net/1444/index.m3u8
+#EXTINF:-1 tvg-id="texno24@SD" group-title="iptv-24",Техно24
+https://s1.iptv-24.net/1037/index.m3u8
+#EXTINF:-1 tvg-id="tvts@SD" group-title="iptv-24",ТВЦ
+https://s1.iptv-24.net/1025/index.m3u8
+#EXTINF:-1 tvg-id="tvc_international@SD" group-title="iptv-24",TVC International
+https://s1.iptv-24.net/1281/index.m3u8
+#EXTINF:-1 tvg-id="dorama@SD" group-title="iptv-24",Дорама
+https://s1.iptv-24.net/1273/index.m3u8
+#EXTINF:-1 tvg-id="dom_kino@SD" group-title="iptv-24",Дом кино
+https://s1.iptv-24.net/1054/index.m3u8
+#EXTINF:-1 tvg-id="telekafe@SD" group-title="iptv-24",Телекафе
+https://s1.iptv-24.net/1035/index.m3u8
+#EXTINF:-1 tvg-id="retro@SD" group-title="iptv-24",Ретро
+https://s1.iptv-24.net/1047/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon_fhd@HD" group-title="iptv-24",Nickelodeon HD
+https://s1.iptv-24.net/1500/index.m3u8
+#EXTINF:-1 tvg-id="nick_jr@HD" group-title="iptv-24",Nick Jr
+https://s1.iptv-24.net/1501/index.m3u8
+#EXTINF:-1 tvg-id="nicktoons@SD" group-title="iptv-24",NickToons
+https://s1.iptv-24.net/1502/index.m3u8
+#EXTINF:-1 tvg-id="rossiya_kultura@SD" group-title="iptv-24",Россия Культура
+https://s1.iptv-24.net/1048/index.m3u8
+#EXTINF:-1 tvg-id="kuxnya_tv@SD" group-title="iptv-24",Кухня ТВ
+https://s1.iptv-24.net/1236/index.m3u8
+#EXTINF:-1 tvg-id="sarafan_tv@SD" group-title="iptv-24",Сарафан ТВ
+https://s1.iptv-24.net/1249/index.m3u8
+#EXTINF:-1 tvg-id="viasat_sport_hd@HD" group-title="iptv-24",Viasat Sport HD
+https://s1.iptv-24.net/1229/index.m3u8
+#EXTINF:-1 tvg-id="match_planeta@SD" group-title="iptv-24",Матч Планета
+https://s1.iptv-24.net/1243/index.m3u8
+#EXTINF:-1 tvg-id="kxl@SD" group-title="iptv-24",КХЛ
+https://s1.iptv-24.net/1422/index.m3u8
+#EXTINF:-1 tvg-id="ufc_hd@HD" group-title="iptv-24",MMA TV
+https://s1.iptv-24.net/1226/index.m3u8
+#EXTINF:-1 tvg-id="fuel_tv_hd@HD" group-title="iptv-24",Fuel TV HD
+https://s1.iptv-24.net/1280/index.m3u8
+#EXTINF:-1 tvg-id="doktor@SD" group-title="iptv-24",Доктор
+https://s1.iptv-24.net/1409/index.m3u8
+#EXTINF:-1 tvg-id="eurosport_hd@SD" group-title="iptv-24",Eurosport
+https://s1.iptv-24.net/1439/index.m3u8
+#EXTINF:-1 tvg-id="trace_sport_stars_hd@HD" group-title="iptv-24",Trace Sport Starts HD
+https://s1.iptv-24.net/1274/index.m3u8
+#EXTINF:-1 tvg-id="tochka_otryva@SD" group-title="iptv-24",Точка Отрыва
+https://s1.iptv-24.net/1031/index.m3u8
+#EXTINF:-1 tvg-id="karusel@SD" group-title="iptv-24",Карусель
+https://s1.iptv-24.net/1034/index.m3u8
+#EXTINF:-1 tvg-id="mult_tv@HD" group-title="iptv-24",Мульт ТВ
+https://s1.iptv-24.net/1246/index.m3u8
+#EXTINF:-1 tvg-id="multilandiya@SD" group-title="iptv-24",Мультиландия
+https://s1.iptv-24.net/1440/index.m3u8
+#EXTINF:-1 tvg-id="da_vinci@HD" group-title="iptv-24",Da Vinci
+https://s1.iptv-24.net/1231/index.m3u8
+#EXTINF:-1 tvg-id="v_gostyax_u_skazki@SD" group-title="iptv-24",В гостях у Сказки
+https://s1.iptv-24.net/1270/index.m3u8
+#EXTINF:-1 tvg-id="mama@SD" group-title="iptv-24",Мама
+https://s1.iptv-24.net/1244/index.m3u8
+#EXTINF:-1 tvg-id="unikum@SD" group-title="iptv-24",Уникум
+https://s1.iptv-24.net/1033/index.m3u8
+#EXTINF:-1 tvg-id="kapitan_fantastika@HD" group-title="iptv-24",Капитан Фантастика
+https://s1.iptv-24.net/1406/index.m3u8
+#EXTINF:-1 tvg-id="ryjiy@SD" group-title="iptv-24",Рыжий
+https://s1.iptv-24.net/1407/index.m3u8
+#EXTINF:-1 tvg-id="ducktv_hd@HD" group-title="iptv-24",Ducktv HD
+https://s1.iptv-24.net/1271/index.m3u8
+#EXTINF:-1 tvg-id="tiji@SD" group-title="iptv-24",Tiji
+https://s1.iptv-24.net/1441/index.m3u8
+#EXTINF:-1 tvg-id="gulli_girl@SD" group-title="iptv-24",Gulli Girl
+https://s1.iptv-24.net/1445/index.m3u8
+#EXTINF:-1 tvg-id="english_club@SD" group-title="iptv-24",English Club
+https://s1.iptv-24.net/1442/index.m3u8
+#EXTINF:-1 tvg-id="avtoplyus@SD" group-title="iptv-24",Авто Плюс
+https://s1.iptv-24.net/1036/index.m3u8
+#EXTINF:-1 tvg-id="avto_24@SD" group-title="iptv-24",Авто 24
+https://s1.iptv-24.net/1430/index.m3u8
+#EXTINF:-1 tvg-id="drive@SD" group-title="iptv-24",Drive
+https://s1.iptv-24.net/1421/index.m3u8
+#EXTINF:-1 tvg-id="insight_tv@HD" group-title="iptv-24",Insight TV
+https://s1.iptv-24.net/1416/index.m3u8
+#EXTINF:-1 tvg-id="arsenal_tv@HD" group-title="iptv-24",Арсенал ТВ
+https://s1.iptv-24.net/1414/index.m3u8
+#EXTINF:-1 tvg-id="history@SD" group-title="iptv-24",Viasat History
+https://s1.iptv-24.net/1046/index.m3u8
+#EXTINF:-1 tvg-id="365_dney_hd@SD" group-title="iptv-24",365 Дней HD
+https://s1.iptv-24.net/1242/index.m3u8
+#EXTINF:-1 tvg-id="istoriya@SD" group-title="iptv-24",История
+https://s1.iptv-24.net/1266/index.m3u8
+#EXTINF:-1 tvg-id="discovery@SD" group-title="iptv-24",Discovery
+https://s1.iptv-24.net/1039/index.m3u8
+#EXTINF:-1 tvg-id="explorer@SD" group-title="iptv-24",Viasat Explore
+https://s1.iptv-24.net/1045/index.m3u8
+#EXTINF:-1 tvg-id="nauka_tv@HD" group-title="iptv-24",Наука ТВ
+https://s1.iptv-24.net/1248/index.m3u8
+#EXTINF:-1 tvg-id="voprosy_i_otvety@SD" group-title="iptv-24",Вопросы и Ответы
+https://s1.iptv-24.net/1429/index.m3u8
+#EXTINF:-1 tvg-id="kosmicheskiy_tv@HD" group-title="iptv-24",Космический ТВ
+https://s1.iptv-24.net/1415/index.m3u8
+#EXTINF:-1 tvg-id="national_geographic_hd@SD" group-title="iptv-24",National Geographic
+https://s1.iptv-24.net/1041/index.m3u8
+#EXTINF:-1 tvg-id="nat_geo_wild_hd@HD" group-title="iptv-24",Nat Geo Wild HD
+https://s1.iptv-24.net/1042/index.m3u8
+#EXTINF:-1 tvg-id="smiliktv@SD" group-title="iptv-24",ТНВ
+https://s1.iptv-24.net/1062/index.m3u8
+#EXTINF:-1 tvg-id="oxota_i_rybalka@SD" group-title="iptv-24",Охота и рыбалка
+https://s1.iptv-24.net/1038/index.m3u8
+#EXTINF:-1 tvg-id="zoopark@SD" group-title="iptv-24",ZooПарк
+https://s1.iptv-24.net/1417/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik_i_rybolov@SD" group-title="iptv-24",Охотник и рыбалов
+https://s1.iptv-24.net/1413/index.m3u8
+#EXTINF:-1 tvg-id="nasha_sibir@HD" group-title="iptv-24",Наша Сибирь
+https://s1.iptv-24.net/1424/index.m3u8
+#EXTINF:-1 tvg-id="v_mire_jivotnyx@SD" group-title="iptv-24",В мире животных
+https://s1.iptv-24.net/1404/index.m3u8
+#EXTINF:-1 tvg-id="domashnie_jivotnye@SD" group-title="iptv-24",Домашние Животные
+https://s1.iptv-24.net/1426/index.m3u8
+#EXTINF:-1 tvg-id="viasat_nature_hd@SD" group-title="iptv-24",Viasat Nature
+https://s1.iptv-24.net/1228/index.m3u8
+#EXTINF:-1 tvg-id="jivaya_planeta_tv@SD" group-title="iptv-24",Живая Планета ТВ
+https://s1.iptv-24.net/1250/index.m3u8
+#EXTINF:-1 tvg-id="jivaya_priroda@HD" group-title="iptv-24",Живая природа
+https://s1.iptv-24.net/1411/index.m3u8
+#EXTINF:-1 tvg-id="usadba@SD" group-title="iptv-24",Усадьба
+https://s1.iptv-24.net/1427/index.m3u8
+#EXTINF:-1 tvg-id="zagorodnyy@SD" group-title="iptv-24",Загородный
+https://s1.iptv-24.net/1410/index.m3u8
+#EXTINF:-1 tvg-id="moya_planeta@HD" group-title="iptv-24",Моя планета
+https://s1.iptv-24.net/1247/index.m3u8
+#EXTINF:-1 tvg-id="fashion_tv@SD" group-title="iptv-24",Fashion TV
+https://s1.iptv-24.net/1053/index.m3u8
+#EXTINF:-1 tvg-id="zdorovoe_tv@SD" group-title="iptv-24",Здоровое ТВ
+https://s1.iptv-24.net/1428/index.m3u8
+#EXTINF:-1 tvg-id="jivi@SD" group-title="iptv-24",Живи
+https://s1.iptv-24.net/1419/index.m3u8
+#EXTINF:-1 tvg-id="jivi_aktivno@HD" group-title="iptv-24",Живи активно
+https://s1.iptv-24.net/1405/index.m3u8
+#EXTINF:-1 tvg-id="life_hd@HD" group-title="iptv-24",Life HD
+https://s1.iptv-24.net/1222/index.m3u8
+#EXTINF:-1 tvg-id="priklyucheniya@SD" group-title="iptv-24",Приключения
+https://s1.iptv-24.net/1420/index.m3u8
+#EXTINF:-1 tvg-id="glazami_turista@HD" group-title="iptv-24",Глазами Туриста
+https://s1.iptv-24.net/1423/index.m3u8
+#EXTINF:-1 tvg-id="bbc_world@SD" group-title="iptv-24",BBC-World
+https://s1.iptv-24.net/1251/index.m3u8
+#EXTINF:-1 tvg-id="cnn@SD" group-title="iptv-24",CNN
+https://s1.iptv-24.net/1259/index.m3u8
+#EXTINF:-1 tvg-id="fox_news@HD" group-title="iptv-24",FOX-NEWS
+https://s1.iptv-24.net/1252/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg@SD" group-title="iptv-24",Bloomberg
+https://s1.iptv-24.net/1255/index.m3u8
+#EXTINF:-1 tvg-id="cgtn@SD" group-title="iptv-24",CGTN
+https://s1.iptv-24.net/1253/index.m3u8
+#EXTINF:-1 tvg-id="dw_english@HD" group-title="iptv-24",DW English
+https://s1.iptv-24.net/1418/index.m3u8
+#EXTINF:-1 tvg-id="france24@HD" group-title="iptv-24",France24
+https://s1.iptv-24.net/1241/index.m3u8
+#EXTINF:-1 tvg-id="nhk_world_japan@HD" group-title="iptv-24",NHK World Japan
+https://s1.iptv-24.net/1449/index.m3u8
+#EXTINF:-1 tvg-id="kbs_world_hd@HD" group-title="iptv-24",KBS World HD
+https://s1.iptv-24.net/1448/index.m3u8
+#EXTINF:-1 tvg-id="trt_haber@SD" group-title="iptv-24",TRT HABER
+https://s1.iptv-24.net/1257/index.m3u8
+#EXTINF:-1 tvg-id="mir@SD" group-title="iptv-24",Мир
+https://s1.iptv-24.net/1218/index.m3u8
+#EXTINF:-1 tvg-id="mir24@HD" group-title="iptv-24",Мир24
+https://s1.iptv-24.net/1219/index.m3u8
+#EXTINF:-1 tvg-id="qazaqstan_tv@SD" group-title="iptv-24",Qazaqstan TV
+https://s1.iptv-24.net/1431/index.m3u8
+#EXTINF:-1 tvg-id="xabar_24_kz@HD" group-title="iptv-24",Хабар 24 KZ
+https://s1.iptv-24.net/1408/index.m3u8
+#EXTINF:-1 tvg-id="tugan_tel@SD" group-title="iptv-24",Tugan Tel
+https://s1.iptv-24.net/1261/index.m3u8
+#EXTINF:-1 tvg-id="trt_avaz@HD" group-title="iptv-24",TRT AVAZ
+https://s1.iptv-24.net/1258/index.m3u8
+#EXTINF:-1 tvg-id="trt_music@SD" group-title="iptv-24",TRT Music
+https://s1.iptv-24.net/1208/index.m3u8
+#EXTINF:-1 tvg-id="ru_tv@SD" group-title="iptv-24",Ру тв
+https://s1.iptv-24.net/1202/index.m3u8
+#EXTINF:-1 tvg-id="muz_tv@SD" group-title="iptv-24",Муз-тв
+https://s1.iptv-24.net/1200/index.m3u8
+#EXTINF:-1 tvg-id="muzyka_pervogo@SD" group-title="iptv-24",Музыка первого
+https://s1.iptv-24.net/1201/index.m3u8
+#EXTINF:-1 tvg-id="lya_minor@SD" group-title="iptv-24",Ля Минор
+https://s1.iptv-24.net/1238/index.m3u8
+#EXTINF:-1 tvg-id="uzbekistan@SD" group-title="iptv-24",Ўзбекистон
+https://s1.iptv-24.net/1001/index.m3u8
+#EXTINF:-1 tvg-id="yoshlar@SD" group-title="iptv-24",Yoshlar
+https://s1.iptv-24.net/1002/index.m3u8
+#EXTINF:-1 tvg-id="toshkent@SD" group-title="iptv-24",Тошкент
+https://s1.iptv-24.net/1003/index.m3u8
+#EXTINF:-1 tvg-id="o_zbekiston_24_hd@HD" group-title="iptv-24",O'zbekiston 24 HD
+https://s1.iptv-24.net/1011/index.m3u8
+#EXTINF:-1 tvg-id="sevimli@HD" group-title="iptv-24",Sevimli
+https://s1.iptv-24.net/1017/index.m3u8
+#EXTINF:-1 tvg-id="milliy_sd@SD" group-title="iptv-24",Milliy SD
+https://s1.iptv-24.net/1216/index.m3u8
+#EXTINF:-1 tvg-id="mening_yurtim@HD" group-title="iptv-24",MY5 HD
+https://s1.iptv-24.net/1012/index.m3u8
+#EXTINF:-1 tvg-id="my5_sd@SD" group-title="iptv-24",MY5 SD
+https://s1.iptv-24.net/1217/index.m3u8
+#EXTINF:-1 tvg-id="mezzo_live_hd@SD" group-title="iptv-24",МУЗЫКА LIVE
+https://s1.iptv-24.net/1238/index.m3u8
+#EXTINF:-1 tvg-id="mydaytv@HD" group-title="iptv-24",MYDAYTV
+https://s1.iptv-24.net/1265/index.m3u8
+#EXTINF:-1 tvg-id="renessans_tv@SD" group-title="iptv-24",Renessans TV
+https://s1.iptv-24.net/1221/index.m3u8
+#EXTINF:-1 tvg-id="bolajon@SD" group-title="iptv-24",Bolajon
+https://s1.iptv-24.net/1007/index.m3u8
+#EXTINF:-1 tvg-id="aqlvoy@SD" group-title="iptv-24",Aqlvoy
+https://s1.iptv-24.net/1205/index.m3u8
+#EXTINF:-1 tvg-id="biztv@SD" group-title="iptv-24",BizTV
+https://s1.iptv-24.net/1211/index.m3u8
+#EXTINF:-1 tvg-id="dasturxontv@HD" group-title="iptv-24",DasturxonTV
+https://s1.iptv-24.net/1206/index.m3u8
+#EXTINF:-1 tvg-id="muztv_uz@SD" group-title="iptv-24",MuzTV UZ
+https://s1.iptv-24.net/1063/index.m3u8
+#EXTINF:-1 tvg-id="navo@SD" group-title="iptv-24",Navo
+https://s1.iptv-24.net/1008/index.m3u8
+#EXTINF:-1 tvg-id="madaniyat_va_ma_rifat@SD" group-title="iptv-24",Madaniyat va Ma'rifat
+https://s1.iptv-24.net/1005/index.m3u8
+#EXTINF:-1 tvg-id="mahalla@SD" group-title="iptv-24",Mahalla
+https://s1.iptv-24.net/1013/index.m3u8
+#EXTINF:-1 tvg-id="kinoteatr@SD" group-title="iptv-24",Kinoteatr
+https://s1.iptv-24.net/1009/index.m3u8
+#EXTINF:-1 tvg-id="o_zbekiston_tarixi_hd@HD" group-title="iptv-24",O'zbekiston tarixi HD
+https://s1.iptv-24.net/1209/index.m3u8
+#EXTINF:-1 tvg-id="dunyo_bo_ylab@SD" group-title="iptv-24",Dunyo bo'ylab
+https://s1.iptv-24.net/1006/index.m3u8
+#EXTINF:-1 tvg-id="uzreport_hd@HD" group-title="iptv-24",Uzreport HD
+https://s1.iptv-24.net/1015/index.m3u8
+#EXTINF:-1 tvg-id="taraqqiyot_tv@SD" group-title="iptv-24",Taraqqiyot TV
+https://s1.iptv-24.net/1204/index.m3u8
+#EXTINF:-1 tvg-id="s_ikbol@SD" group-title="iptv-24",S-Ikbol
+https://s1.iptv-24.net/1282/index.m3u8
+#EXTINF:-1 tvg-id="gold_television@SD" group-title="iptv-24",Gold Television
+https://s1.iptv-24.net/4007/index.m3u8
+#EXTINF:-1 tvg-id="ruxsor_tv@HD" group-title="iptv-24",Ruxsor TV
+https://s1.iptv-24.net/4008/index.m3u8
+#EXTINF:-1 tvg-id="lux_tv@HD" group-title="iptv-24",LUX.TV
+https://s1.iptv-24.net/1210/index.m3u8
+#EXTINF:-1 tvg-id="biz_cinema@SD" group-title="iptv-24",Biz Cinema
+https://s1.iptv-24.net/1213/index.m3u8
+#EXTINF:-1 tvg-id="biz_music@HD" group-title="iptv-24",Biz Music
+https://s1.iptv-24.net/1212/index.m3u8
+#EXTINF:-1 tvg-id="ntv_uz@SD" group-title="iptv-24",NTV UZ
+https://s1.iptv-24.net/1284/index.m3u8
+#EXTINF:-1 tvg-id="ftv@HD" group-title="iptv-24",FTV
+https://s1.iptv-24.net/1018/index.m3u8
+#EXTINF:-1 tvg-id="istiqlol_tv@SD" group-title="iptv-24",Istiqlol TV
+https://s1.iptv-24.net/1283/index.m3u8
+#EXTINF:-1 tvg-id="nurafshon_tv@SD" group-title="iptv-24",Nurafshon TV
+https://s1.iptv-24.net/1220/index.m3u8
+#EXTINF:-1 tvg-id="makon_tv@HD" group-title="iptv-24",Makon TV
+https://s1.iptv-24.net/1497/index.m3u8
+#EXTINF:-1 tvg-id="s_cinema@HD" group-title="iptv-24",S Cinema
+https://s1.iptv-24.net/1498/index.m3u8
+#EXTINF:-1 tvg-id="az_tv@SD" group-title="iptv-24",Az TV
+https://s1.iptv-24.net/1455/index.m3u8
+#EXTINF:-1 tvg-id="futbol_tv@SD" group-title="iptv-24",Futbol TV
+https://s1.iptv-24.net/1010/index.m3u8
+#EXTINF:-1 tvg-id="smusic@HD" group-title="iptv-24",SMusic
+https://s1.iptv-24.net/1476/index.m3u8
+#EXTINF:-1 tvg-id="aj_arabic@HD" group-title="iptv-24",Denov TV
+https://s1.iptv-24.net/1499/index.m3u8
+#EXTINF:-1 tvg-id="ttv@SD" group-title="iptv-24",TTV
+https://s1.iptv-24.net/1494/index.m3u8
+#EXTINF:-1 tvg-id="ttv_kino@SD" group-title="iptv-24",TTV Kino
+https://s1.iptv-24.net/1486/index.m3u8
+#EXTINF:-1 tvg-id="vodiy_tv@SD" group-title="iptv-24",Vodiy TV
+https://s1.iptv-24.net/4012/index.m3u8
+#EXTINF:-1 tvg-id="jaslar_tv@SD" group-title="iptv-24",Jaslar tv
+https://s1.iptv-24.net/1490/index.m3u8
+#EXTINF:-1 tvg-id="shifo_tv@SD" group-title="iptv-24",Shifo TV
+https://s1.iptv-24.net/1469/index.m3u8
+#EXTINF:-1 tvg-id="nasaf_tv@SD" group-title="iptv-24",Nasaf tv
+https://s1.iptv-24.net/2025/index.m3u8
+#EXTINF:-1 tvg-id="cgtn_rus@HD" group-title="iptv-24",CGTN Rus
+https://s1.iptv-24.net/1456/index.m3u8
+#EXTINF:-1 tvg-id="mimi_tv@SD" group-title="iptv-24",Mimi TV
+https://s1.iptv-24.net/1470/index.m3u8
+#EXTINF:-1 tvg-id="ishonch_tv@SD" group-title="iptv-24",Ishonch TV
+https://s1.iptv-24.net/1489/index.m3u8
+#EXTINF:-1 tvg-id="futboltv@SD" group-title="iptv-24",8TV
+https://s1.iptv-24.net/1496/index.m3u8
+#EXTINF:-1 tvg-id="8tv@SD" group-title="iptv-24",8TV
+https://s1.iptv-24.net/1262/index.m3u8
+#EXTINF:-1 tvg-id="ellikqala_tv@SD" group-title="iptv-24",Ellikqala TV
+https://s1.iptv-24.net/1495/index.m3u8
+#EXTINF:-1 tvg-id="muloqot_tv@SD" group-title="iptv-24",Muloqot tv
+https://s1.iptv-24.net/1285/index.m3u8
+#EXTINF:-1 tvg-id="qaraqalpaqstan@SD" group-title="iptv-24",Qaraqalpaqstan
+https://s1.iptv-24.net/1467/index.m3u8
+#EXTINF:-1 tvg-id="fergana@SD" group-title="iptv-24",Fergana
+https://s1.iptv-24.net/1458/index.m3u8
+#EXTINF:-1 tvg-id="surxondaryo@SD" group-title="iptv-24",Surxondaryo
+https://s1.iptv-24.net/1463/index.m3u8
+#EXTINF:-1 tvg-id="xorazm@SD" group-title="iptv-24",Xorazm
+https://s1.iptv-24.net/1464/index.m3u8
+#EXTINF:-1 tvg-id="andijon@SD" group-title="iptv-24",Andijon
+https://s1.iptv-24.net/1457/index.m3u8
+#EXTINF:-1 tvg-id="samarqand@SD" group-title="iptv-24",Samarqand
+https://s1.iptv-24.net/1468/index.m3u8
+#EXTINF:-1 tvg-id="live_tv@SD" group-title="iptv-24",Navoi
+https://s1.iptv-24.net/1460/index.m3u8
+#EXTINF:-1 tvg-id="jizzax@SD" group-title="iptv-24",Jizzax
+https://s1.iptv-24.net/1465/index.m3u8
+#EXTINF:-1 tvg-id="qashqadaryo@SD" group-title="iptv-24",Qashqadaryo
+https://s1.iptv-24.net/1461/index.m3u8
+#EXTINF:-1 tvg-id="sirdaryo@SD" group-title="iptv-24",Sirdaryo
+https://s1.iptv-24.net/1462/index.m3u8
+#EXTINF:-1 tvg-id="namangan@SD" group-title="iptv-24",Namangan
+https://s1.iptv-24.net/1466/index.m3u8
+#EXTINF:-1 tvg-id="buxoro@SD" group-title="iptv-24",Buxoro
+https://s1.iptv-24.net/1459/index.m3u8
+#EXTINF:-1 tvg-id="amudaryo_tv@SD" group-title="iptv-24",Amudaryo TV
+https://s1.iptv-24.net/1491/index.m3u8
+#EXTINF:-1 tvg-id="jizzax_tv@SD" group-title="iptv-24",Jizzax TV
+https://s1.iptv-24.net/1488/index.m3u8
