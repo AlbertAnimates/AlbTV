@@ -152,7 +152,7 @@ Adding channels from [Free Codecs](https://free-codecs.com) is important for you
 ## [ngrch](https://ngrch.github.io/iptv/)'s playlist
 
 ```m3u
-dbhdjdjdjdjd
+https://raw.githubusercontent.com/AlbertAnimates/AlbTV/refs/heads/main/cleanup-ru.m3u
 ```
 
 Here's the cleaned-up version of your playlist with all the duplicate channels ((2), (3), (4), etc.) removed. Only the original channel names remain.
