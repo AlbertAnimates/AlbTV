@@ -2229,4 +2229,56 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="yamal-region" tvg-logo="https://assets.iptv2022.com/static/channel/10190/logo_256_1660810138.png",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u
+#EXTINF:-1 group-title="[UZ] telekarta: Sarkor-Telecom 🇺🇿" tvg-logo="https://tas-ix.tv/uploads/posts/2018-04/1524334329_z.jpg",Zo'rTV HD
+https://s04.watcher.uz/6/tracks-v2a1/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
+#EXTINF:-1 group-title="[UZ] telekarta: Sarkor-Telecom 🇺🇿" tvg-logo="https://tvinfo.uz/uploads/1597250441.jpg",Sevimli TV HD
+https://s04.watcher.uz/72/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
+#EXTINF:-1 group-title="[UZ] telekarta: Movies" tvg-logo="https://i.imgur.com/YTcmkfW.png",Backus TV (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="[UZ] telekarta: Movies" tvg-logo="https://i.imgur.com/GGX4vDW.png",Backus TV Страшное (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1785.png",Uzbekistan 24 UZ
+https://s04.watcher.uz/8/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1786.png",Uzbekistan UZ
+https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1787.png",Yoshlar UZ
+https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1788.png",Sport UZ
+https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1789.png",Toshkent UZ
+https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1790.png",Kinoteatr UZ
+https://s05.watcher.uz/66/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1791.png",My 5 UZ
+https://s05.watcher.uz/69/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1792.png",Milliy TV UZ
+https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1793.png",Sevimli TV UZ
+https://s04.watcher.uz/72/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1794.png",Zor TV UZ
+https://s04.watcher.uz/6/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1795.png",Dasturxon TV UZ
+https://s03.watcher.uz/85/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1796.png",Nurafshon TV UZ
+https://s03.watcher.uz/87/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1797.png",Biz TV UZ
+https://st.biztv.uz/hls/stream_mid/index.m3u8
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1798.png",Biz Cinema UZ
+https://st.biztv.uz/hls/c_low/index.m3u8
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1799.png",Biz Music UZ
+https://st.biztv.uz/hls/m_mid/index.m3u8
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1800.png",Renessans TV UZ
+https://s04.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1801.png",UzReport TV UZ
+https://s03.watcher.uz/75/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1802.png",Futbol TV UZ
+https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1803.png",Navo UZ
+https://s05.watcher.uz/65/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1804.png",Bolajon UZ
+https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ" tvg-logo="http://tv.team/images/chIcons/1805.png",Dunyo Boylab UZ
+https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="[UZ] telekarta: UZ",Milliy tv
+http://serv1.milliy.tv/hls/index_480.m3u8
