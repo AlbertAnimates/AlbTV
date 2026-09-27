@@ -2282,3 +2282,1080 @@ https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="[UZ] telekarta: UZ",Milliy tv
 http://serv1.milliy.tv/hls/index_480.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Ani
+http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="ani", Ani SD
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8?720*576
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="ani", Ani 🟥
+http://127.0.0.1:6878/ace/m/1a56fa1e4c2800c4bca035bc6b3b2cd425bb69dc/7c45dc82969d666fa0da387787e32757.m3u8?1048*576
+#EXTINF:-1 group-title="LoganetX: Детские", Baby Time
+http://hlstv.kem.211.ru/239.211.211.51/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Baby TV 🟥 
+http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8?1024*576
+#EXTINF:-1 group-title="LoganetX: Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito
+http://edge05.beetv.kz:80/btv/SWM/Boomerang/Boomerang.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito Full HD
+https://stream01.vnet.am/Boomerang/mono.m3u8?1920*1080_VirusNet
+#EXTINF:-1 group-title="LoganetX: Детские"  tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png", Cartoonito 🟥
+http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8?1024*576
+#EXTINF:-1 group-title="LoganetX: Детские", Cartoon Network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
+#EXTINF:-1 group-title="LoganetX: Детские", Cartoon Network 🟥
+http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8?1047*576
+#EXTINF:-1 group-title="LoganetX: Детские", Da Vinci
+https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Da Vinci 🟥
+http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1584px-Disney_XD_-_2015_%28Purple%29.svg.png", Disney XD
+https://cdn.wasd.tv/live/1684244/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", DuckTV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", DuckTV HD
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="ducktv", DuckTV Full HD
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", FamilyJam
+http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Gulli Girl
+http://edge05.beetv.kz:80/btv/SWM/Guilli/Guilli.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Gulli Girl 🟥
+http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4?1047*576
+#EXTINF:-1 group-title="LoganetX: Детские", JimJam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8?1024*576
+#EXTINF:-1 group-title="LoganetX: Детские", Nick Jr.
+http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8?1047*576_Beeline
+#EXTINF:-1 group-title="LoganetX: Детские", Nickelodeon
+http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test?1024*576_Ракета
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="nicktoons", Nicktoons Full HD
+http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8?1920*1080_Beeline
+#EXTINF:-1 group-title="LoganetX: Детские", TiJi
+http://178.160.249.210:8000/play/a2tz/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", TiJi 🟥 
+acestream://4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки
+http://178.160.249.210:8000/play/a2v0/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки Full HD
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки 🟥
+http://127.0.0.1:6878/ace/m/d78c7a1da99696e3987563926a1cd31bff9c56bf/c041a8fa519450e2b45cc9a2c039d7d7.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Детские мультфильмы
+http://fs1.persik.by/484215/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Детский мир 
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Детский мир 🟥
+http://127.0.0.1:6878/hls/r/c6fed6c54d9d213a423a1699fbdba590727b5902/5dd2ed999ff3b6581fa98e0078d05064.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="ginger-hd", Капитан Фантастика Full HD
+http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="ginger-hd", Капитан Фантастика 🟥
+http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Карусель
+https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_2.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="karusel", Карусель HD
+https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_3.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Карусель 🟥
+http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Карусель Int.
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="liova", Лëва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Мульт
+http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Мульт HD
+http://176.222.190.76:80/btv/SWM/SWM_Mult/SWM_Mult_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Мульт HD 🟧
+http://80.251.49.103:8003/play/89
+#EXTINF:-1 group-title="LoganetX: Детские", Мульт HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="multimania", Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="multimania", Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="multimania", Мультиландия Full HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские" tvg-id="multimania", Мультиландия Full HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Мультимузыка
+http://178.160.249.210:8000/play/a2vb/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Мультимузыка 🟥
+http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", О!
+http://176.222.190.76/btv/SWM/O/O.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", О! 🟥
+http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Рыжий
+http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Рыжий 🟥
+http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", СТС Kids
+http://46.19.99.11:4000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", СТС Kids HD
+http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", СТС Kids HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", СуперГерои
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", СуперГерои 🟥
+http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+#EXTINF:-1 group-title="LoganetX: Детские", Уникум
+http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Детские", Уникум 🟥
+http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Eurosport 1
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Eurosport 1 HD 🟥  
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Eurosport 2
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Eurosport 2 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Extreme Sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Extreme Sports 🟥
+http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Fast&Fun Box
+http://178.160.249.210:8000/play/a2u9/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Fast&Fun Box HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", FightBox
+http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", FightBox HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Fuel TV HD
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", KHL
+http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl", KHL HD
+http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl", KHL Full HD
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl", KHL Full HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl-hd", KHL Prime HD
+http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl-hd", KHL Prime Full HD
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="kxl-hd", KHL Prime Full HD 🟥 
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="m1global", MMA TV 🟧
+http://94.230.240.17:8080/m1global/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="m1global", MMA TV Full HD
+http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Russian Extreme HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Russian Extreme UHD
+http://hlstv.kem.211.ru/239.211.200.63/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD
+http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD
+http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Setanta Qazaqstan
+http://176.222.190.76/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="viasat-sport", Viju+ Sport
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="viasat-sport", Viju+ Sport HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="viasat-sport", Viju+ Sport Full HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Бокс ТВ
+http://hlstv.kem.211.ru/239.211.211.14/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="box-tv", Бокс ТВ HD
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч Премьер
+http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч Премьер HD
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч Премьер HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч!
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! 🟥
+http://127.0.0.1:6878/hls/r/0a04b9a0fc12bd86ccdf8a9166255951d23ac30e/c25f3fe6713c9978311a31a1afa040c5.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! HD 🟥
+http://127.0.0.1:6878/hls/r/fae62ebb8af40bf0df6551307b0dcdc101408f27/2956e2b34a3806e7b161f258c7e3e7d1.m3u8  
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-tv", Матч! Full HD
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
+http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Арена
+http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Арена HD
+http://bl.uma.media/live/126868/HLS/16128000_4/4/4/playlist.m3u8?v2.MdSdyTZAoFTbeN9TXhzoXkkVKn-L4OZ5dklViX_htFY.SedCYPGao43JYRE8hSw6CKCv9ZDSKUpGts5Cq2Ufo8E.1678549058.4800c174b1238131dc4a64c3a8562cc0
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Арена HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Боец
+http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-boets", Матч! Боец HD
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-boets", Матч! Боец HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Игра
+https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Игра HD
+http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Игра HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Планета
+http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Планета 🟥   
+http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Страна
+http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-nash-sport", Матч! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные" tvg-id="match-nash-sport", Матч! Страна HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 1
+http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 1 HD
+http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 1 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 2
+http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 2 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 3
+http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Матч! Футбол 3 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Мир Баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Мир Баскетбола 🟥
+http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Спортивный 🟥
+http://127.0.0.1:6878/ace/m/30cf0f8140006a03d60a4639c623f024b4e167ed/bf48f23b4e80d28642db161d27a93abe.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Спортивные", Удар
+http://176.222.190.76/btv/SWM/udar_hd/udar_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Футбол
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Спортивные", Футбол HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Футбольный 🟥
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+#EXTINF:-1 group-title="LoganetX: Спортивные", Хоккейный 🟥 
+http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", 1+2
+http://89.254.128.5:22280/1_2/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", A1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", A1 HD
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", A1 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", A2
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", A2 HD
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", A2 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Amedia Hit
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Amedia Hit HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Amedia Premium HD
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Кино", Amedia Premium HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", BackusTV
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", BackusTV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", .black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", .black 🟥
+http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Bollywood HD
+http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Bollywood HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="bolt-ru", Bolt
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="bolt-ru", Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Cinema
+http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png", Cinema Classic
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Comedy Central HD
+http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Comedy Central HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", FAN 🟧
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", FAN HD
+http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", FAN HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="filmbox-ru", Film Box
+http://77.240.45.106:8888/play/a01v
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="filmbox-ru", Film Box 🟧
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Film Box ArtHouse
+http://hlstv.kem.211.ru/239.211.211.186/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", FlixSnip
+https://sc.id-tv.kz/FlixSnip.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Fox HD
+http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Fox HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Fox Life
+http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Fox Life HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Hollywood
+http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Hollywood HD
+http://hlstv.kem.211.ru/239.211.200.5/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Hollywood HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", KinoJam 1
+http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", KinoJam 2
+http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="plan-b", Plan B
+http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="plan-b", Plan B HD
+http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", .red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", .red HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", .sci-fi 
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", .sci-fi HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-cinema", Star Cinema
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-cinema", Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-cinema", Star Cinema Full HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-family", Star Family
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-family", Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="star-family", Star Family Full HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Start Air 
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="start-air", Start Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="start-air", Start Air Full HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Start World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="start-world", Start World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="start-world", Start World Full HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Timeless Dizi Channel
+http://hlstv.kem.211.ru/239.211.211.115/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Trash
+http://176.222.190.76/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", TV XXI
+http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", TV XXI 🟥
+http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Ultra HD Cinema
+http://hlstv.kem.211.ru/239.211.200.64/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Ultra HD Cinema 🟥
+http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="vhs-ka", VHS-ка HD
+http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viasat Kino
+http://89.254.128.5:22280/tv1000/video.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viasat Kino Action
+http://89.254.128.5:22280/tv1000_action/video.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viasat Kino World 🟥
+http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Viju TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000", Viju TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000", Viju TV1000 Full HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000-action", Viju TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000-action", Viju TV1000 Action Full HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju TV1000 Русское
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000-russkoe-kino", Viju TV1000 Русское HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="tv1000-russkoe-kino", Viju TV1000 Русское Full HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju TV1000 World 🟧
+http://78.26.128.59:9876/play/144/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="vip-comedy", Viju+ Comedy Full HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="vip-megahit", Viju+ Megahit Full HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8 
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Premiere 
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="vip-premiere", Viju+ Premiere Full HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Viju+ Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="vip-serial", Viju+ Serial Full HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Блокбастер HD
+http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Блокбастер HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Дом кино
+http://hlstv.kem.211.ru/239.211.211.103/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Дом кино Премиум HD
+http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Дом кино Премиум HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Дорама
+http://streamer1.ruslanatv.ru/russia/dorama_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Дорама HD
+http://176.222.190.76/btv/SWM/Dorama/Dorama.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Дорама HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Душевное HD
+http://streamer1.ruslanatv.ru/russia/dushevnoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Душевное HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Еврокино
+http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Еврокино 🟥
+http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Иллюзион+
+http://176.222.190.76/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Иллюзион+ 🟥
+http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Индийское кино
+http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Индийское кино 🟥
+http://127.0.0.1:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Индия
+http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Камеди 🟧
+http://185.23.80.28:8080/Camedi/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Камеди 🟥
+http://127.0.0.1:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="kineko", Кинеко HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="kineko", Кинеко Full HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кино UHD 🟥
+http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кино ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Кино", Кино ТВ HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинокомедия HD
+http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинокомедия HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Киномикс
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киномикс HD
+http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киномикс HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинопоказ HD
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Кино", Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинопремьера HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Киносвидание
+http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносвидание HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Киносемья
+http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносемья HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Киносерия
+http://93.125.34.51:30002/MnogoTV/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносерия HD
+http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киносерия HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Киноужас HD
+http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Киноужас HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Кинохит HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Комедийное HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Комедия
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Кино", Комедия 🟥
+http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Любимое
+http://hez1-flu.iptvstream.site/85/tracks-v1a1/mono.m3u8?token=179631%2C%2C%2C3738276381
+#EXTINF:-1 group-title="LoganetX: Кино", Любимое 🟥
+http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Мир сериала
+http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="mir-seriala", Мир сериала HD
+http://93.125.34.51:30002/Mir_seriala/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Мосфильм. Золотая коллекция
+http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="mosfilm", Мосфильм. Золотая коллекция HD
+http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="mosfilm", Мосфильм. Золотая коллекция HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Мужское кино
+http://79.141.211.254:8000/MuzhKino
+#EXTINF:-1 group-title="LoganetX: Кино", Мужское кино HD
+http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Мужское кино HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Наш кинопоказ HD
+http://hez1-flu.iptvstream.site/89/tracks-v1a1/mono.m3u8?token=179631%2C%2C%2C3738276381
+#EXTINF:-1 group-title="LoganetX: Кино", Наш кинопоказ HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="lubimoe-kino", Наше любимое кино
+http://176.222.190.76/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="lubimoe-kino", Наше любимое кино HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Наше крутое HD
+http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Наше мужское HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Наше новое кино
+http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Наше новое кино HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", НСТ
+http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", НСТ 🟥
+http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", НТВ Сериал
+https://cdn.ntv.ru:443/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="ntv-serial", НТВ Сериал HD
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", НТВ Хит
+https://cdn.ntv.ru:443/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="ntv-xit", НТВ Хит HD
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Остросюжетное HD
+http://hez1-flu.iptvstream.site/294/tracks-v1a1/mono.m3u8?token=146552%2C%2C%2C5323474066
+#EXTINF:-1 group-title="LoganetX: Кино", Остросюжетное HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Премиальное HD
+http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Про любовь HD
+http://hez1-flu.iptvstream.site/94/tracks-v1a1/mono.m3u8?token=146552%2C%2C%2C5323474066
+#EXTINF:-1 group-title="LoganetX: Кино", Про любовь HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Родное кино
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Родное кино 🟥
+http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Романтичное HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Русский бестселлер
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Кино", Русский бестселлер 🟥
+http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Русский детектив
+http://hlstv.kem.211.ru/239.211.211.95/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Русский детектив 🟥
+http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Русский иллюзион
+http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Русский иллюзион 🟥
+http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="russky-illuzion", Русский иллюзион Int
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Русский роман
+http://193.33.88.172/russki_roman_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Сапфир
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="sapfir", Сапфир HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино" tvg-id="sapfir", Сапфир Full HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Сериал UHD
+http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Страшное HD
+http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Тайна
+http://hlstv.kem.211.ru/239.211.211.124/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Феникс+Кино
+http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Феникс+Кино 🟥
+http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Хит 
+http://hez1-flu.iptvstream.site/99/tracks-v1a1/mono.m3u8?token=361702%2C%2C%2C7286203277
+#EXTINF:-1 group-title="LoganetX: Кино", Хит 🟧
+http://185.23.80.26:8080/lb/Xit/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Хит 🟥
+http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
+#EXTINF:-1 group-title="LoganetX: Кино", Шокирующее
+http://37.29.23.129:4000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Кино", Шокирующее HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", 365 дней
+http://hlstv.kem.211.ru/239.211.200.138/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Animal Planet HD
+http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Animal Planet HD 🟥
+http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1 group-title="LoganetX: Познавательные", Big Planet
+http://176.222.190.76/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Discovery
+http://streamer1.ruslanatv.ru/russia/discovery_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Discovery HD
+http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Discovery HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Discovery Science HD
+http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Discovery Science HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Docubox
+http://178.160.249.200:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", English Club TV
+http://176.222.190.76/btv/SWM/English_Club_TV/English_Club_TV.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", HDL
+http://93.125.34.51:30002/HDLife/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", History HD
+http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", History2 HD
+http://edge04.beetv.kz:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Insight UHD 🟥
+http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Love Nature 4k 🟥
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Nano HD
+http://hlstv.kem.211.ru/239.211.211.94/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Nano HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", National Geographic HD
+http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", National Geographic HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Nat Geo Wild
+http://178.160.249.200:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Nat Geo Wild HD
+http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Nat Geo Wild HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Ocean TV
+http://93.125.34.51:30002/OCEAN-TV/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", RTG International 🟧
+http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", RTG TV
+http://hlstv.kem.211.ru/239.211.211.49/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Terra
+http://93.125.34.51:30002/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-id="terra-ru", Terra HD
+http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Trace Sport Stars HD
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Travel Channel HD 🟧
+http://176.107.250.4:8002/ch171
+#EXTINF:-1 group-title="LoganetX: Познавательные", Travel Channel HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Travel+Adventure
+http://176.107.250.4:8001/ch24
+#EXTINF:-1 group-title="LoganetX: Познавательные", Travel+Adventure HD
+http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Travel+Adventure HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel&adventure.png", Travel&Adventure HD
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", TV BRICS
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-id="viasat-explore", Viju Explore Full HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-id="viasat-history", Viju History Full HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-id="viasat-nature", Viju Nature Full HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju+ Planet
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Viju+ Planet HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-id="viasat-nature-history-hd", Viju+ Planet Full HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Zooпарк
+http://176.222.190.76/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Арсенал HD
+http://45.143.108.104:80/arsenal/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Арсенал HD 🟧
+http://185.23.80.26:8080/lb/Arsenal_HD/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Арсенал HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", В мире животных HD
+http://94.158.54.107/82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", В мире животных HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Доктор
+http://hlstv.kem.211.ru/239.211.211.67/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Доктор 🟥
+http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Домашние животные
+http://176.222.190.76/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", ЕГЭ
+http://188.143.128.22:30001/play/p147
+#EXTINF:-1 group-title="LoganetX: Познавательные", Живая Планета
+http://hlstv.kem.211.ru/239.211.211.105/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Живая Планета 🟥
+http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Живая Природа
+http://176.222.190.76/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Живая Природа HD
+http://hlstv.kem.211.ru/239.211.200.27/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Звезда Плюс 🟧
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Зоо ТВ
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Познавательные", История
+http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Ключ HD
+http://176.222.190.76/btv/SWM/klyuch_hd/klyuch_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Кто есть кто
+http://hlstv.kem.211.ru/239.211.211.192/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Кто есть кто 🟥
+http://127.0.0.1:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
+http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Мир вокруг
+http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Мир вокруг 🟥
+http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", МосОбр ТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Моя Планета
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Моя Планета HD
+http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Моя Планета HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наука 2.0
+http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наука 2.0 HD
+http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наука 2.0 HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наша Сибирь 4k
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Наша Сибирь 4k 🟥
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Открытый мир
+http://146.158.0.56/OtkritiyMir/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Первый Космический HD
+http://176.222.190.76/btv/SWM/1_kosmo_HD/1_kosmo_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Первый Космический HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Победа
+http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Приключения HD
+http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Приключения HD 🟥
+http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+#EXTINF:-1 group-title="LoganetX: Познавательные", Про бизнес
+http://hlstv.kem.211.ru/239.211.211.101/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Психология 21
+http://176.222.190.76/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Родной канал 🟧
+http://185.23.80.26:8080/lb/RodnoyKanal/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Т24
+http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Тайны Галактики HD
+http://176.222.190.76/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", ТВ Экстра
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Телепутешествия
+http://188.143.128.22:30001/play/p199
+#EXTINF:-1 group-title="LoganetX: Познавательные", Телепутешествия 🟧
+http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Познавательные", Успех
+http://176.222.190.76/btv/SWM/uspeh/uspeh.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные", 360 Новости
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные" tvg-id="360-news", 360 Новости HD
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные" tvg-id="360-news", 360 Новости Full HD
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные", Известия
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные", Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/720p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные" tvg-id="izvestia", Известия Full HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные", Крик-ТВ
+http://hlstv.kem.211.ru/239.211.211.127/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные" tvg-id="mir-24", Мир 24 HD
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные", РБК
+http://176.222.190.76/btv/SWM/RBK_TV/RBK_TV.m3u8
+#EXTINF:-1 group-title="LoganetX: Новостные" tvg-id="rbk", РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", 360 HD
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", 360 International
+https://sc.id-tv.kz:443/360.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", 2x2
+https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", 2x2 HD
+http://hlstv.kem.211.ru/239.211.211.4/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", DetectiveJam
+http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", DTX HD
+http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Gagsnetwork
+http://176.74.80.162:8099/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Global Star
+http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Home 4k
+http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные" tvg-id="id-xtra-eu", ID Investigation Discovery
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="LoganetX: Развлекательные", San Porto
+http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", TVM Channel
+https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Анекдот ТВ
+http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Вопросы и ответы
+http://176.222.190.76/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Время  
+http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Глазами туриста 4k
+http://hlstv.kem.211.ru/239.211.200.61/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Глазами туриста HD
+http://hlstv.kem.211.ru/239.211.200.35/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Живи активно HD
+http://94.158.54.107/81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Зал Суда
+http://178.160.249.210:8000/play/a2v6/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Здоровое ТВ
+http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Калейдоскоп ТВ
+https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", КВН ТВ
+http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Ностальгия
+http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", НТВ Право
+https://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Поехали!
+http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Ретро
+http://37.29.23.129:4000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Сарафан
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Светлое ТВ
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Светлое ТВ HD  
+http://185.23.80.25:8080/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", СТС International
+http://176.222.190.76/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", СТС Love
+http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Суббота! HD
+http://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Танцуй! 🟧
+http://176.107.250.4:8002/ch41
+#EXTINF:-1 group-title="LoganetX: Развлекательные", ТДК
+http://91.236.103.35:10110/play/a04n
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Театр
+http://91.236.103.35:10110/play/a09x
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Театр 🟧
+http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", ТНТ4
+http://hlstv.kem.211.ru/239.211.211.68/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", ТНТ4 International
+http://176.222.190.76/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Точка Отрыва
+http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Точка ТВ
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", ЦТВ
+http://176.222.190.76/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Че
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Эхо TV
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Развлекательные", Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", 1HD
+http://146.158.0.56:80/1HD/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Aiva
+http://hlstv.kem.211.ru/239.211.200.13/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Classic Music
+http://77.240.45.106:8888/play/a02o
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Europa Plus TV
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LoganetX: Музыкальные", MCM Top
+http://176.222.190.76/btv/SWM/MCM/MCM.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Mezzo
+http://176.222.190.76/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Mezzo Live HD
+http://176.107.250.4:8004/ch189
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-id="mtv-live-hd", MTV Live
+http://176.222.190.76/btv/SWM/MTV_Russia/MTV_Russia.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-logo="https://crdtv.net/b/templates/ottch/vh1-european.png", MTV 00's
+http://176.222.190.76/btv/SWM/mtv_00/mtv_00.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", RU.TV HD
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-id="ru-tv", RU.TV Full HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Russian MusicBox
+http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Russian MusicBox HD
+http://hlstv.kem.211.ru/239.211.200.3/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Song TV Россия
+https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-id="song-tv-ru", Song TV Россия HD
+https://songtv.hls.iptvdc.com/web-russia/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Stingray CMusic 🟥
+http://127.0.0.1:6878/ace/m/6f681b446a14339b4958fb3453fee98b8098b24a/56b4d5d1dabafe0092d5ed83e0c402ef.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Stingray iConcerts 🟥
+http://127.0.0.1:6878/ace/m/aca4e2aab3e3dd86ce44fbb0e5d25ddcf256fceb/15ce825ff3b4d97b8431f4ab0deb4fff.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Восток ТВ
+http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Жар Птица
+http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Жара
+http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-logo="%3F%3F%3F%3F_Kids_TV_%28%3F_2020%2C_%3F%3F%3F%3F%29.png", Жара TV Kids
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Ля-минор
+http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Музыка первого
+http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", О2ТВ
+http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", ТНТ Music
+http://hlstv.kem.211.ru/239.211.211.74/stream.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные", ТНТ Music HD
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="LoganetX: Музыкальные" tvg-id="tnt-music", ТНТ Music Full HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="LoganetX: Социально-Политические", RT Doc
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="LoganetX: Социально-Политические", Вместе-РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="LoganetX: Социально-Политические", Дума ТВ
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Социально-Политические", Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LoganetX: Социально-Политические",  ЛДПР ТВ
+http://hlstv.kem.211.ru/239.211.211.71/stream.m3u8
