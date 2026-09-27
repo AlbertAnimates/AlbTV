@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IPTVru
 
 #EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый
@@ -1585,3 +1585,648 @@ http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://iptvx.one/picons/sochi-live.png" group-title="smolnp: Медитативные" ,Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png" group-title="telekarta: 🇷🇺 Эфирные",Первый HD
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png" group-title="telekarta: 🇷🇺 Эфирные",Россия HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png" group-title="telekarta: 🇷🇺 Эфирные",НТВ HD
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png" group-title="telekarta: 🇷🇺 Эфирные",ТВ Центр HD
+http://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:0 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png" group-title="telekarta: 🇷🇺 Эфирные",ТВ Центр
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="telekarta: 🇷🇺 Эфирные",НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png" group-title="telekarta: 🇷🇺 Эфирные",РЕН ТВ
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png" group-title="telekarta: 🇷🇺 Эфирные",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png" group-title="telekarta: 🇷🇺 Эфирные",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.it999.ru/img2/79.png" group-title="telekarta: 🇷🇺 Эфирные",СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="telekarta: 🇷🇺 Эфирные",Домашний
+http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="yu" tvg-logo="http://epg.it999.ru/img2/898.png" group-title="telekarta: 🇷🇺 Эфирные",Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="telekarta: 🇷🇺 Эфирные",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" group-title="telekarta: 🇷🇺 Эфирные",Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="http://epg.it999.ru/img2/2471.png" group-title="telekarta: 🇷🇺 Эфирные",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="rossija-k" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="telekarta: 🇷🇺 Эфирные",Россия-Культура
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="telekarta: 🇷🇺 Эфирные",Россия-24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png" group-title="telekarta: 🇷🇺 Эфирные",Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://epg.it999.ru/img2/334.png" group-title="telekarta: 🇷🇺 Эфирные",Москва 24
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="telekarta: 🇷🇺 Эфирные",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="telekarta: 🇷🇺 Эфирные",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:0 tvg-id="glazami-turista-4k" tvg-logo="http://epg.it999.ru/img2/2508.png" group-title="telekarta: 🌏 Познавательные",Глазами туриста
+https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
+#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="http://epg.it999.ru/img2/1612.png" group-title="telekarta: 🌏 Познавательные",Discovery HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="http://epg.it999.ru/img2/3067.png" group-title="telekarta: 🌏 Познавательные",Discovery Science HD
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:0 tvg-id="id-xtra-ru" tvg-logo="http://epg.it999.ru/img2/2507.png" group-title="telekarta: 🌏 Познавательные",Investigation Discovery HD
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
+#EXTINF:0 tvg-id="animal-planet" tvg-logo="http://epg.it999.ru/img2/990.png" group-title="telekarta: 🌏 Познавательные",Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd
+#EXTINF:0 tvg-id="moya-planeta" tvg-logo="http://epg.it999.ru/img2/675.png" group-title="telekarta: 🌏 Познавательные",Моя планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="teleputeshestvija" tvg-logo="http://epg.it999.ru/img2/2424.png" group-title="telekarta: 🌏 Познавательные",Телепутешествия 
+http://92.43.140.249/s71/index.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="http://epg.it999.ru/img2/2498.png" group-title="telekarta: 🌏 Познавательные",В мире животных HD
+http://hls.peers.tv/streaming/animal_family_hd/16/tvrec/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:0 tvg-id="dialogi-o-rybalke" tvg-logo="http://epg.it999.ru/img2/2627.png" group-title="telekarta: 🌏 Познавательные",Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-id="ohotnik-rybolov" group-title="telekarta: 🌏 Познавательные",Рыболов
+http://92.43.140.249/s55/index.m3u8
+#EXTINF:-1 tvg-id="zootv" tvg-logo="http://epg.it999.ru/img2/2431.png" group-title="telekarta: 🌏 Познавательные",Зоо ТВ
+http://92.43.140.249/s92/index.m3u8
+#EXTINF:-1 tvg-id="teletravel-hd" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="telekarta: 🌏 Познавательные",Приключения
+http://92.43.140.249/s99/index.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="telekarta: 🌏 Познавательные",Первый космический
+http://92.43.140.249/s44/index.m3u8
+
+#EXTINF:0 tvg-id="start" tvg-logo="https://iptvxcdn.ml/start.png" group-title="telekarta: ⛹🏿‍ Спортивные",Старт
+https://livetv.mylifeisgood.ml/channels/startlive
+#EXTINF:0 tvg-id="setanta-sports" tvg-logo="http://epg.it999.ru/img2/2812.png" group-title="telekarta: ⛹🏿‍ Спортивные",SETANTA SPORTS 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:0 tvg-id="setanta-sports-plus" tvg-logo="http://epg.it999.ru/img2/2813.png" group-title="telekarta: ⛹🏿‍ Спортивные",Setanta Sports 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="telekarta: ⛹🏿‍ Спортивные",Eurosport 1 HD
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="telekarta: ⛹🏿‍ Спортивные",Eurosport 2 HD
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.it999.ru/img2/2004.png" group-title="telekarta: ⛹🏿‍ Спортивные",Viasat Sport HD
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png" group-title="telekarta: ⛹🏿‍ Спортивные",Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="football-ru" tvg-logo="http://epg.it999.ru/img2/2782.png" group-title="telekarta: ⛹🏿‍ Спортивные",Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+
+#EXTINF:0 tvg-id="hollywood-hd" tvg-logo="http://epg.it999.ru/img2/934.png" group-title="telekarta: 📽️ Фильмовые",Hollywood HD
+http://46.19.100.174:4450/play/a005/index.m3u8
+#EXTINF:0 tvg-id="kino-tv" tvg-logo="http://epg.it999.ru/img2/2506.png" group-title="telekarta: 📽️ Фильмовые",Кино ТВ HD
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img2/2823.png" group-title="telekarta: 📽️ Фильмовые",ViP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="http://epg.it999.ru/img2/2824.png" group-title="telekarta: 📽️ Фильмовые",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="http://epg.it999.ru/img2/2822.png" group-title="telekarta: 📽️ Фильмовые",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="vip-serial" tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="telekarta: 📽️ Фильмовые",ViP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://epg.it999.ru/img2/3302.png" group-title="telekarta: 📽️ Фильмовые",TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://epg.it999.ru/img2/3301.png" group-title="telekarta: 📽️ Фильмовые",TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-russkoe-kino" tvg-logo="http://epg.it999.ru/img2/3303.png" group-title="telekarta: 📽️ Фильмовые",TV 1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="telekarta: 📽️ Фильмовые",НТВ-ХИТ
+https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:0 tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="telekarta: 📽️ Фильмовые",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:0 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png" group-title="telekarta: 📽️ Фильмовые",НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 tvg-id="backustv" tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="telekarta: 📽️ Фильмовые",BackusTV
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="telekarta: 📽️ Фильмовые",BackusTV Страшное
+https://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 tvg-id="nst" tvg-logo="http://epg.it999.ru/img2/518.png" group-title="telekarta: 📽️ Фильмовые",НСТ
+https://m3ut.net/p/982815674/1/45
+#EXTINF:0 tvg-id="kinouzhas" tvg-logo="http://epg.it999.ru/img2/2493.png" group-title="telekarta: 📽️ Фильмовые",Киноужас
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="telekarta: 📽️ Фильмовые",A1
+http://92.43.140.249/s45/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.it999.ru/img2/918.png" group-title="telekarta: 📽️ Фильмовые",A2
+http://92.43.140.249/s33/index.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="telekarta: 📽️ Фильмовые",A HOME OF HBO
+http://92.43.140.249/s64/index.m3u8
+#EXTINF:0 tvg-id="tvxxi" tvg-logo="http://epg.it999.ru/img2/309.png" group-title="telekarta: 📽️ Фильмовые",TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="http://epg.it999.ru/img2/3297.png" group-title="telekarta: 📽️ Фильмовые",Киносемья
+http://flu.ttk.mx:9090/Kinosemia/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.it999.ru/img2/566.png" group-title="telekarta: 📽️ Фильмовые",Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2771.png" group-title="telekarta: 📽️ Фильмовые",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="kinopokaz" tvg-logo="http://epg.it999.ru/img2/2834.png" group-title="telekarta: 📽️ Фильмовые",Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="evrokino" tvg-logo="http://epg.it999.ru/img2/352.png" group-title="telekarta: 📽️ Фильмовые",Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="cinema-ru" tvg-logo="http://epg.it999.ru/img2/2549.png" group-title="telekarta: 📽️ Фильмовые",Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="illuzion-plus" tvg-logo="http://epg.it999.ru/img2/2403.png" group-title="telekarta: 📽️ Фильмовые",Иллюзион +
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png" group-title="telekarta: 📽️ Фильмовые",Дом Кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:0 tvg-id="bollywood-hd" tvg-logo="http://epg.it999.ru/img2/1395.png" group-title="telekarta: 📽️ Фильмовые",Bollywood HD
+http://46.19.100.174:4450/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-logo="http://epg.it999.ru/img2/2952.png" group-title="telekarta: 📽️ Фильмовые",Свежаки
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-logo="http://epg.it999.ru/img2/2952.png" group-title="telekarta: 📽️ Фильмовые",Ужастик
+https://edge-01.kino.watch/horror/index.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-logo="http://epg.it999.ru/img2/2952.png" group-title="telekarta: 📽️ Фильмовые",Уже видел
+https://edge-01.kino.watch/hit/index.m3u8
+
+#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.it999.ru/img2/897.png" group-title="telekarta: 🎵 Музыкальные",Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://tv2club.com/wp-content/uploads/2020/12/cz-ocko-8142.jpg" group-title="telekarta: 🎵 Музыкальные",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg" group-title="telekarta: 🎵 Музыкальные",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg" group-title="telekarta: 🎵 Музыкальные",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/300102.jpg" group-title="telekarta: 🎵 Музыкальные",RITSA TV
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+#EXTINF:-1 tvg-id="m2-ua" tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png" group-title="telekarta: 🎵 Музыкальные",M2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="telekarta: 🎵 Музыкальные",Первый Музыкальный RU
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="telekarta: 🎵 Музыкальные",Первый Музыкальный RU HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="telekarta: 🎵 Музыкальные",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="telekarta: 🎵 Музыкальные",Первый Музыкальный BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sat-one.info/news-imeg/58892.jpg" group-title="telekarta: 🎵 Музыкальные",VIVA TV
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-red.com/images/radio-logo/strana-fm.png" group-title="telekarta: 🎵 Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png" group-title="telekarta: 🎵 Музыкальные",Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png" group-title="telekarta: 🎵 Музыкальные",Radio Шансон-ТВ
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.it999.ru/img/2277.png" group-title="telekarta: 🎵 Музыкальные",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://smotrimkino.vip/uploads/posts/2019-07/1564013659_kronehit.jpg" group-title="telekarta: 🎵 Музыкальные",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://mooz.tv/site/img/mooz-dance.jpg" group-title="telekarta: 🎵 Музыкальные",Mooz Dance
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/5/50/Dolce_mooz_ro.png" group-title="telekarta: 🎵 Музыкальные",Mooz RO
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="telekarta: 🎵 Музыкальные",Mooz HITS
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
+
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img2/2743.png" group-title="telekarta: WINK+Aрхив",Ultra HD Cinema 4K
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="http://epg.it999.ru/img2/2803.png" group-title="telekarta: WINK+Aрхив",Russian Extreme UHD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/146.png" group-title="telekarta: WINK+Aрхив",Первый
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/711.png" group-title="telekarta: WINK+Aрхив",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/162.png" group-title="telekarta: WINK+Aрхив",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png" group-title="telekarta: WINK+Aрхив",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png" group-title="telekarta: WINK+Aрхив",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png" group-title="telekarta: WINK+Aрхив",Мир
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png" group-title="telekarta: WINK+Aрхив",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="telekarta: WINK+Aрхив",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.it999.ru/img2/79.png" group-title="telekarta: WINK+Aрхив",СТС
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love" group-title="telekarta: WINK+Aрхив",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="telekarta: WINK+Aрхив",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="che" tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="telekarta: WINK+Aрхив",Че
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="yu" group-title="telekarta: WINK+Aрхив",Ю
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="7kanal-krasnoyarsk",7 канал Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="8vladik",8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="12-omsk",12 канал HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="31-kanal-chelyabinsk",31 канал Челябинск
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://auto-bel.org/wp-content/uploads/2017/07/41-region.jpg",41 Регион
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="6tv",6 ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tmtv" tvg-logo="http://tmtv.tatar/2017/wp-content/uploads/2017/07/Logo-TMTV-2020-e1591703729834.png",TMTV
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="ugra-travel",UGRA TRAVEL
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="aist",АИСТ HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="aktis",Актис HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="1obl-blagoveschensk" ,Амурское областное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="arig-us-24" tvg-logo"https://assets.iptv2022.com/static/channel/10426/logo_256_1660803844.png",Ариг Ус
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="arktik-tv",Арктик-ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="vremia-arktiki" ,Арктика 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="arxyz24",Архыз-24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="astraxan24",Астрахань 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="atv-media",АТВ-Медиа
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="http://epg.it999.ru/img2/5767.png",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="afontovo-kr",Афонтово HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="bars",Барс плюс
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="bashkortostan24",Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="belgorod24",Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="brianskaya-gubernia",Брянская Губерния HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="bst",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tk-variant" tvg-logo="https://assets.iptv2022.com/static/channel/10471/logo_256_1660804589.png",Вариант V
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg" tvg-logo="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/58538/AzxMWreByTaDByHOENPHw.png",Вектор 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="vetta24" tvg-logo="https://www.cableman.ru/sites/default/files/vetta_0.png?1529476086",Ветта 24 Пермь
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="volga" tvg-logo="https://online-red.com/images/tv/volga-tv.png",Волга
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="volgograd-1" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/150x150/epg553.png",Волгоград 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="volgograd-24",Волгоград-24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="vostok-24" tvg-logo="https://assets.iptv2022.com/static/channel/10370/logo_256_1660804651.png",Восток 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="vot-tv",ВОТтв HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="volga-24" tvg-logo="https://assets.iptv2022.com/static/channel/12307/logo_256_1655387053.png",Волга 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://assets.iptv2022.com/static/channel/10467/logo_256_1660800341.png",ВТК «Аргус» HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="gorodskoy-yaroslavl" tvg-logo="https://hh.ru/employer-logo/3746368.png",Городской телеканал Ярославль
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="gubernia-33",Губерния 33 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="gubernia-samara",Губерния Самара
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="gubernia",Губерния
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="deviatka",Девятка ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="dzenzhinsk-tv",Дзержинск ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="doverie",Доверие
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="don-24",ДОН 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="evrasia" tvg-logo="https://assets.iptv2022.com/static/channel/10460/logo_256_1660804953.png",Евразия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="enisey-region",Енисей HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://assets.iptv2022.com/static/channel/10440/logo_256_1660805029.png",Импульс HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://assets.iptv2022.com/static/channel/10112/logo_256_1660805198.png",Инфо 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="kavkaz24",Кавказ 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://kamchatka1.tv/wp-content/uploads/2020/11/cropped-logo.png",Камчатка HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="kaskad24",Каскад
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="katun-24" tvg-logo="http://epg.it999.ru/img2/5705.png",Катунь 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="krasnodar",Краснодар HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://assets.iptv2022.com/static/channel/10481/logo_256_1660805417.png",Кузбасс 1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="lot-47" tvg-logo="https://assets.iptv2022.com/static/channel/10194/logo_256_1660805499.png",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="lipeckoe-vremia",Липецкое время HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="maydan",Майдан
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="mig-tv-noyabrsk",Миг ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="mir-belogoria",Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="moskva-24",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="my-i-gorod",Мы и город
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="metr",МЭТР
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="chavash-en" tvg-logo="http://online-red.com/images/radio-logo/cavas-en.png",Национальное ТВ Чувашии
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="nash-dom",Наш дом
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg" tvg-logo="https://pic.rutubelist.ru/user/b8/10/b810e65311471924a25b04190fb374a8.jpg",Наши города
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="saxa" tvg-logo="https://assets.iptv2022.com/static/channel/10328/logo_256_1660806390.png",НВК (Саха)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="nika-tv",Ника-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="nntv",ННТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="novgorodskoe-obl-tv",Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://iptvz.cf/2-kanal-mogilev.png",Новое время (Радужный)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="novy-vek-tambov",Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="49kanal",НСК 49
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="nts-irkutsk",НТС Иркутск
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="nts-irbit" tvg-logo="https://telebegun.ru/uploads/channels/ntc-irbit.png",НТС-Ирбит (Екатеринбург)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://oblast45.ru/static/images/og-logo.png",Область 45 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="objektiv-59",Объектив 59 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="osetia-iryston",Осетия-Ирыстон HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="otv-eburg",ОТВ Екатеринбург HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="otv-chelyabinsk",ОТВ Челябинск HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="otv-primorie",ОТВ-Владивосток
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="otv-saxalin",ОТВ-Сахалин
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="ots",ОТС HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="pervy-gorodskoy-kirov",Первый городской (Киров)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="pervy-gorodskoy-omsk",Первый городской (Омск)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="pervy-oblastnoy-orel",Первый областной
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="pervy-tulsky",Первый Тульский HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="pervy-yaroslavsky",Первый Ярославский HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="prima",Прима-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="prodvizhenie-pl3",Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rgvk-dagestan" tvg-logo="https://online-red.com/images/tv/rgvk-dagestan.png",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="region29",Регион 29
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="reportior-73" tvg-logo="https://reporter73.tv/wp-content/uploads/2019/04/logo.png",Репортер 73
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rimtv" tvg-logo="https://www.reklama-online.ru/smi/tv/logo/media/3662513/",РИМ (Каменск-Уральский)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rifey-tv" tvg-logo="https://assets.iptv2022.com/static/channel/10711/logo_256_1660892081.png",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rostov-papa" tvg-logo="http://epg.it999.ru/img2/5708.png",Ростов-папа HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rts-abakan",РТС-Абакан
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="russky-sever",Русский Север
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg" tvg-logo="https://assets.iptv2022.com/static/channel/10690/logo_256_1655388777.png",Русь (Кострома)
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="rybinsk40" tvg-logo="https://assets.iptv2022.com/static/channel/10389/logo_256_1660807150.png",Рыбинск-40
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="s1-surgut",С1 Сургут HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="samara24" tvg-logo="https://assets.iptv2022.com/static/channel/10442/logo_256_1660807211.png",Самара-24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="gis-samara",Самара-Гис
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="saratov-24" tvg-logo="https://assets.iptv2022.com/static/channel/10348/logo_256_1656306690.png",Саратов-24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="svoyo-tv-stavropol" tvg-logo="https://assets.iptv2022.com/static/channel/10851/logo_256_1660807245.png",Своё ТВ Ставрополь HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="selenga-tv",Селенга-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="sochi24" tvg-logo="https://assets.iptv2022.com/static/channel/10218/logo_256_1660807373.png",Сочи24 HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="surgut-24" tvg-logo="https://assets.iptv2022.com/static/channel/10402/logo_256_1660807421.png",Сургут 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tagil-tv-24",Тагил ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tatarstan24" tvg-logo="https://assets.iptv2022.com/static/channel/10369/logo_256_1660807459.png",Татарстан-24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://online-red.com/images/tv/7-tv.png",ТВ-7 Абакан
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tv-guberniya",ТВ-Губерния
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tv-in",ТВ-ИН-Магнитогорск HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="kolyma-plus",ТВ-Колыма-Плюс HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tv21plus" tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_256_1660892137.png",ТВ21+
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tverskoy-prospekt",Тверской Проспект
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="teotv" tvg-logo="https://assets.iptv2022.com/static/channel/10802/logo_256_1660892200.png",ТЕО-ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tivikom",Тивиком HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="trk-ryazan",ТКР Рязань
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://dantser.ru/wp-content/uploads/2020/04/tnr24.jpg",ТНР24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://assets.iptv2022.com/static/channel/10463/logo_256_1660809624.png",Толк
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tolpartv" tvg-logo="https://assets.iptv2022.com/static/channel/10551/logo_256_1655389150.png",Толпар ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tolyatti24",Тольятти-24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tomskoe-vremia" tvg-logo="https://online-red.com/images/tv/tomsk-time.png",Томское время HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="tumenskoe-vremia",Тюменское время
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="udmurtia",Удмуртия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="xamdan-kalm24",Хамдан-Калмыкия 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="express",Экспресс HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="efir24-relax" tvg-logo="https://assets.iptv2022.com/static/channel/10364/logo_256_1660810041.png",Эфир
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="no_epg_news" tvg-logo="https://ugorsk.ru/wp-content/uploads/2022/08/uv-1.jpg",Югорск ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="yugra",Югра
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="yurgan",Юрган
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="utv-cheboxary" tvg-logo="https://limehd.tv/images/seo/utv_1.jpg",ЮТВ Чебоксары
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="yakutia24" tvg-logo="https://assets.iptv2022.com/static/channel/10454/logo_256_1660810109.png",Якутия 24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1 group-title="telekarta: WINK+Aрхив" tvg-id="yamal-region" tvg-logo="https://assets.iptv2022.com/static/channel/10190/logo_256_1660810138.png",Ямал-Регион
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
