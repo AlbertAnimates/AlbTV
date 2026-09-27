@@ -149,7 +149,7 @@ Adding channels from [Free Codecs](https://free-codecs.com) is important for you
 
 > **Want to add your device?** The Welcome channel streams from `albertanimates.github.io` (GitHub Pages). If your player/network blocks GitHub or doesn't support HLS, that slot may fail even when the rest of the list works fine — that's the "in some connections" caveat. Open an issue or ping me with your player + country and I'll add it to the table.
 
-## [ngrch]https://ngrch.github.io/iptv[ngrch]'s playlist
+## [ngrch](https://ngrch.github.io/iptv/)'s playlist
 
 ```m3u
 dbhdjdjdjdjd
