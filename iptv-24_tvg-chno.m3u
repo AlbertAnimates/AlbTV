@@ -1,0 +1,389 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#PLAYLIST:IPTVru
+
+#EXTINF:-1 tvg-id="zo_r_tv_hd@HD" tvg-chno="1016" group-title="Uzbek",Zo'r TV HD
+https://s1.iptv-24.net/1016/index.m3u8
+#EXTINF:-1 tvg-id="setanta_sports_1@HD" tvg-chno="1263" group-title="Sports",Setanta Sports 1
+https://s1.iptv-24.net/1263/index.m3u8
+#EXTINF:-1 tvg-id="setanta_sports_2@HD" tvg-chno="1264" group-title="Sports",Setanta Sports 2
+https://s1.iptv-24.net/1264/index.m3u8
+#EXTINF:-1 tvg-id="pervyy@SD" tvg-chno="1019" group-title="Russian",Первый
+https://s1.iptv-24.net/1019/index.m3u8
+#EXTINF:-1 tvg-id="rossiya1@SD" tvg-chno="1020" group-title="Russian",Россия 1
+https://s1.iptv-24.net/1020/index.m3u8
+#EXTINF:-1 tvg-id="itv_cinema@HD" tvg-chno="4000" group-title="Movies",iTV Cinema
+https://s1.iptv-24.net/4000/index.m3u8
+#EXTINF:-1 tvg-id="qiziq_tv@HD" tvg-chno="1291" group-title="Uzbek",Qiziq TV
+https://s1.iptv-24.net/1291/index.m3u8
+#EXTINF:-1 tvg-id="retro_tv@HD" tvg-chno="1290" group-title="Movies",Retro TV
+https://s1.iptv-24.net/1290/index.m3u8
+#EXTINF:-1 tvg-id="ntv@SD" tvg-chno="1023" group-title="Russian",НТВ
+https://s1.iptv-24.net/1023/index.m3u8
+#EXTINF:-1 tvg-id="rossiya24@SD" tvg-chno="1021" group-title="News",Россия 24
+https://s1.iptv-24.net/1021/index.m3u8
+#EXTINF:-1 tvg-id="sportuz@SD" tvg-chno="1004" group-title="Sports",Uz Sport
+https://s1.iptv-24.net/1004/index.m3u8
+#EXTINF:-1 tvg-id="itv_music@HD" tvg-chno="4001" group-title="Music",iTV Music
+https://s1.iptv-24.net/4001/index.m3u8
+#EXTINF:-1 tvg-id="milliytv@HD" tvg-chno="1014" group-title="Uzbek",MilliyTV
+https://s1.iptv-24.net/1014/index.m3u8
+#EXTINF:-1 tvg-id="tv3@SD" tvg-chno="1435" group-title="Russian",ТВ3
+https://s1.iptv-24.net/1435/index.m3u8
+#EXTINF:-1 tvg-id="pervyy_hd@HD" tvg-chno="1214" group-title="Russian",Первый HD
+https://s1.iptv-24.net/1214/index.m3u8
+#EXTINF:-1 tvg-id="zvezda@SD" tvg-chno="1050" group-title="Russian",Звезда
+https://s1.iptv-24.net/1050/index.m3u8
+#EXTINF:-1 tvg-id="euronews@SD" tvg-chno="1024" group-title="News",EuroNews
+https://s1.iptv-24.net/1024/index.m3u8
+#EXTINF:-1 tvg-id="kinoxit@SD" tvg-chno="1055" group-title="Movies",Кинохит
+https://s1.iptv-24.net/1055/index.m3u8
+#EXTINF:-1 tvg-id="kinopremera_hd@HD" tvg-chno="1207" group-title="Movies",Кинопремьера HD
+https://s1.iptv-24.net/1207/index.m3u8
+#EXTINF:-1 tvg-id="rodnoe_kino@SD" tvg-chno="1052" group-title="Movies",Родное кино
+https://s1.iptv-24.net/1052/index.m3u8
+#EXTINF:-1 tvg-id="nashe_novoe_kino@SD" tvg-chno="1051" group-title="Movies",Наше новое кино
+https://s1.iptv-24.net/1051/index.m3u8
+#EXTINF:-1 tvg-id="kinoseriya@HD" tvg-chno="1235" group-title="Movies",Киносерия
+https://s1.iptv-24.net/1235/index.m3u8
+#EXTINF:-1 tvg-id="kinosemya@SD" tvg-chno="1234" group-title="Movies",Киносемья
+https://s1.iptv-24.net/1234/index.m3u8
+#EXTINF:-1 tvg-id="kinosvidanie@SD" tvg-chno="1203" group-title="Movies",Киносвидание
+https://s1.iptv-24.net/1203/index.m3u8
+#EXTINF:-1 tvg-id="kinomiks_hd@HD" tvg-chno="1233" group-title="Movies",Киномикс HD
+https://s1.iptv-24.net/1233/index.m3u8
+#EXTINF:-1 tvg-id="kinokomediya_hd@HD" tvg-chno="1232" group-title="Movies",Кинокомедия
+https://s1.iptv-24.net/1232/index.m3u8
+#EXTINF:-1 tvg-id="indiyskoe_kino@SD" tvg-chno="1060" group-title="Movies",Индийское кино
+https://s1.iptv-24.net/1060/index.m3u8
+#EXTINF:-1 tvg-id="mujskoe_kino@HD" tvg-chno="1237" group-title="Movies",Мужское кино
+https://s1.iptv-24.net/1237/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz@SD" tvg-chno="1057" group-title="Movies",Кинопоказ
+https://s1.iptv-24.net/1057/index.m3u8
+#EXTINF:-1 tvg-id="tv1000_russkoe_kino@SD" tvg-chno="1059" group-title="Movies",TV1000 Русское кино
+https://s1.iptv-24.net/1059/index.m3u8
+#EXTINF:-1 tvg-id="cinema_tv@SD" tvg-chno="1227" group-title="Movies",Cinema TV
+https://s1.iptv-24.net/1227/index.m3u8
+#EXTINF:-1 tvg-id="tv_1000_new@SD" tvg-chno="1058" group-title="Movies",TV 1000
+https://s1.iptv-24.net/1058/index.m3u8
+#EXTINF:-1 tvg-id="tv1000_action_hd@SD" tvg-chno="1225" group-title="Movies",TV1000 Action HD
+https://s1.iptv-24.net/1225/index.m3u8
+#EXTINF:-1 tvg-id="hollywood@SD" tvg-chno="1443" group-title="Movies",Hollywood
+https://s1.iptv-24.net/1443/index.m3u8
+#EXTINF:-1 tvg-id="bollywood@SD" tvg-chno="1444" group-title="Movies",Bollywood
+https://s1.iptv-24.net/1444/index.m3u8
+#EXTINF:-1 tvg-id="texno24@SD" tvg-chno="1037" group-title="Documentary",Техно24
+https://s1.iptv-24.net/1037/index.m3u8
+#EXTINF:-1 tvg-id="tvts@SD" tvg-chno="1025" group-title="Russian",ТВЦ
+https://s1.iptv-24.net/1025/index.m3u8
+#EXTINF:-1 tvg-id="tvc_international@SD" tvg-chno="1281" group-title="Russian",TVC International
+https://s1.iptv-24.net/1281/index.m3u8
+#EXTINF:-1 tvg-id="dorama@SD" tvg-chno="1273" group-title="Movies",Дорама
+https://s1.iptv-24.net/1273/index.m3u8
+#EXTINF:-1 tvg-id="dom_kino@SD" tvg-chno="1054" group-title="Movies",Дом кино
+https://s1.iptv-24.net/1054/index.m3u8
+#EXTINF:-1 tvg-id="telekafe@SD" tvg-chno="1035" group-title="Entertainment",Телекафе
+https://s1.iptv-24.net/1035/index.m3u8
+#EXTINF:-1 tvg-id="retro@SD" tvg-chno="1047" group-title="Movies",Ретро
+https://s1.iptv-24.net/1047/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon_fhd@HD" tvg-chno="1500" group-title="Kids",Nickelodeon HD
+https://s1.iptv-24.net/1500/index.m3u8
+#EXTINF:-1 tvg-id="nick_jr@HD" tvg-chno="1501" group-title="Kids",Nick Jr
+https://s1.iptv-24.net/1501/index.m3u8
+#EXTINF:-1 tvg-id="nicktoons@SD" tvg-chno="1502" group-title="Kids",NickToons
+https://s1.iptv-24.net/1502/index.m3u8
+#EXTINF:-1 tvg-id="rossiya_kultura@SD" tvg-chno="1048" group-title="Russian",Россия Культура
+https://s1.iptv-24.net/1048/index.m3u8
+#EXTINF:-1 tvg-id="kuxnya_tv@SD" tvg-chno="1236" group-title="Lifestyle",Кухня ТВ
+https://s1.iptv-24.net/1236/index.m3u8
+#EXTINF:-1 tvg-id="sarafan_tv@SD" tvg-chno="1249" group-title="Lifestyle",Сарафан ТВ
+https://s1.iptv-24.net/1249/index.m3u8
+#EXTINF:-1 tvg-id="viasat_sport_hd@HD" tvg-chno="1229" group-title="Sports",Viasat Sport HD
+https://s1.iptv-24.net/1229/index.m3u8
+#EXTINF:-1 tvg-id="match_planeta@SD" tvg-chno="1243" group-title="Sports",Матч Планета
+https://s1.iptv-24.net/1243/index.m3u8
+#EXTINF:-1 tvg-id="kxl@SD" tvg-chno="1422" group-title="Sports",КХЛ
+https://s1.iptv-24.net/1422/index.m3u8
+#EXTINF:-1 tvg-id="ufc_hd@HD" tvg-chno="1226" group-title="Sports",MMA TV
+https://s1.iptv-24.net/1226/index.m3u8
+#EXTINF:-1 tvg-id="fuel_tv_hd@HD" tvg-chno="1280" group-title="Sports",Fuel TV HD
+https://s1.iptv-24.net/1280/index.m3u8
+#EXTINF:-1 tvg-id="doktor@SD" tvg-chno="1409" group-title="Lifestyle",Доктор
+https://s1.iptv-24.net/1409/index.m3u8
+#EXTINF:-1 tvg-id="eurosport_hd@SD" tvg-chno="1439" group-title="Sports",Eurosport
+https://s1.iptv-24.net/1439/index.m3u8
+#EXTINF:-1 tvg-id="trace_sport_stars_hd@HD" tvg-chno="1274" group-title="Sports",Trace Sport Starts HD
+https://s1.iptv-24.net/1274/index.m3u8
+#EXTINF:-1 tvg-id="tochka_otryva@SD" tvg-chno="1031" group-title="Entertainment",Точка Отрыва
+https://s1.iptv-24.net/1031/index.m3u8
+#EXTINF:-1 tvg-id="karusel@SD" tvg-chno="1034" group-title="Kids",Карусель
+https://s1.iptv-24.net/1034/index.m3u8
+#EXTINF:-1 tvg-id="mult_tv@HD" tvg-chno="1246" group-title="Kids",Мульт ТВ
+https://s1.iptv-24.net/1246/index.m3u8
+#EXTINF:-1 tvg-id="multilandiya@SD" tvg-chno="1440" group-title="Kids",Мультиландия
+https://s1.iptv-24.net/1440/index.m3u8
+#EXTINF:-1 tvg-id="da_vinci@HD" tvg-chno="1231" group-title="Kids",Da Vinci
+https://s1.iptv-24.net/1231/index.m3u8
+#EXTINF:-1 tvg-id="v_gostyax_u_skazki@SD" tvg-chno="1270" group-title="Kids",В гостях у Сказки
+https://s1.iptv-24.net/1270/index.m3u8
+#EXTINF:-1 tvg-id="mama@SD" tvg-chno="1244" group-title="Kids",Мама
+https://s1.iptv-24.net/1244/index.m3u8
+#EXTINF:-1 tvg-id="unikum@SD" tvg-chno="1033" group-title="Kids",Уникум
+https://s1.iptv-24.net/1033/index.m3u8
+#EXTINF:-1 tvg-id="kapitan_fantastika@HD" tvg-chno="1406" group-title="Kids",Капитан Фантастика
+https://s1.iptv-24.net/1406/index.m3u8
+#EXTINF:-1 tvg-id="ryjiy@SD" tvg-chno="1407" group-title="Kids",Рыжий
+https://s1.iptv-24.net/1407/index.m3u8
+#EXTINF:-1 tvg-id="ducktv_hd@HD" tvg-chno="1271" group-title="Kids",Ducktv HD
+https://s1.iptv-24.net/1271/index.m3u8
+#EXTINF:-1 tvg-id="tiji@SD" tvg-chno="1441" group-title="Kids",Tiji
+https://s1.iptv-24.net/1441/index.m3u8
+#EXTINF:-1 tvg-id="gulli_girl@SD" tvg-chno="1445" group-title="Kids",Gulli Girl
+https://s1.iptv-24.net/1445/index.m3u8
+#EXTINF:-1 tvg-id="english_club@SD" tvg-chno="1442" group-title="Education",English Club
+https://s1.iptv-24.net/1442/index.m3u8
+#EXTINF:-1 tvg-id="avtoplyus@SD" tvg-chno="1036" group-title="Lifestyle",Авто Плюс
+https://s1.iptv-24.net/1036/index.m3u8
+#EXTINF:-1 tvg-id="avto_24@SD" tvg-chno="1430" group-title="Lifestyle",Авто 24
+https://s1.iptv-24.net/1430/index.m3u8
+#EXTINF:-1 tvg-id="drive@SD" tvg-chno="1421" group-title="Lifestyle",Drive
+https://s1.iptv-24.net/1421/index.m3u8
+#EXTINF:-1 tvg-id="insight_tv@HD" tvg-chno="1416" group-title="Lifestyle",Insight TV
+https://s1.iptv-24.net/1416/index.m3u8
+#EXTINF:-1 tvg-id="arsenal_tv@HD" tvg-chno="1414" group-title="Documentary",Арсенал ТВ
+https://s1.iptv-24.net/1414/index.m3u8
+#EXTINF:-1 tvg-id="history@SD" tvg-chno="1046" group-title="Documentary",Viasat History
+https://s1.iptv-24.net/1046/index.m3u8
+#EXTINF:-1 tvg-id="365_dney_hd@SD" tvg-chno="1242" group-title="Documentary",365 Дней HD
+https://s1.iptv-24.net/1242/index.m3u8
+#EXTINF:-1 tvg-id="istoriya@SD" tvg-chno="1266" group-title="Documentary",История
+https://s1.iptv-24.net/1266/index.m3u8
+#EXTINF:-1 tvg-id="discovery@SD" tvg-chno="1039" group-title="Documentary",Discovery
+https://s1.iptv-24.net/1039/index.m3u8
+#EXTINF:-1 tvg-id="explorer@SD" tvg-chno="1045" group-title="Documentary",Viasat Explore
+https://s1.iptv-24.net/1045/index.m3u8
+#EXTINF:-1 tvg-id="nauka_tv@HD" tvg-chno="1248" group-title="Documentary",Наука ТВ
+https://s1.iptv-24.net/1248/index.m3u8
+#EXTINF:-1 tvg-id="voprosy_i_otvety@SD" tvg-chno="1429" group-title="Documentary",Вопросы и Ответы
+https://s1.iptv-24.net/1429/index.m3u8
+#EXTINF:-1 tvg-id="kosmicheskiy_tv@HD" tvg-chno="1415" group-title="Documentary",Космический ТВ
+https://s1.iptv-24.net/1415/index.m3u8
+#EXTINF:-1 tvg-id="national_geographic_hd@SD" tvg-chno="1041" group-title="Documentary",National Geographic
+https://s1.iptv-24.net/1041/index.m3u8
+#EXTINF:-1 tvg-id="nat_geo_wild_hd@HD" tvg-chno="1042" group-title="Documentary",Nat Geo Wild HD
+https://s1.iptv-24.net/1042/index.m3u8
+#EXTINF:-1 tvg-id="smiliktv@SD" tvg-chno="1062" group-title="Russian",ТНВ
+https://s1.iptv-24.net/1062/index.m3u8
+#EXTINF:-1 tvg-id="oxota_i_rybalka@SD" tvg-chno="1038" group-title="Lifestyle",Охота и рыбалка
+https://s1.iptv-24.net/1038/index.m3u8
+#EXTINF:-1 tvg-id="zoopark@SD" tvg-chno="1417" group-title="Documentary",ZooПарк
+https://s1.iptv-24.net/1417/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik_i_rybolov@SD" tvg-chno="1413" group-title="Lifestyle",Охотник и рыбалов
+https://s1.iptv-24.net/1413/index.m3u8
+#EXTINF:-1 tvg-id="nasha_sibir@HD" tvg-chno="1424" group-title="Documentary",Наша Сибирь
+https://s1.iptv-24.net/1424/index.m3u8
+#EXTINF:-1 tvg-id="v_mire_jivotnyx@SD" tvg-chno="1404" group-title="Documentary",В мире животных
+https://s1.iptv-24.net/1404/index.m3u8
+#EXTINF:-1 tvg-id="domashnie_jivotnye@SD" tvg-chno="1426" group-title="Documentary",Домашние Животные
+https://s1.iptv-24.net/1426/index.m3u8
+#EXTINF:-1 tvg-id="viasat_nature_hd@SD" tvg-chno="1228" group-title="Documentary",Viasat Nature
+https://s1.iptv-24.net/1228/index.m3u8
+#EXTINF:-1 tvg-id="jivaya_planeta_tv@SD" tvg-chno="1250" group-title="Documentary",Живая Планета ТВ
+https://s1.iptv-24.net/1250/index.m3u8
+#EXTINF:-1 tvg-id="jivaya_priroda@HD" tvg-chno="1411" group-title="Documentary",Живая природа
+https://s1.iptv-24.net/1411/index.m3u8
+#EXTINF:-1 tvg-id="usadba@SD" tvg-chno="1427" group-title="Lifestyle",Усадьба
+https://s1.iptv-24.net/1427/index.m3u8
+#EXTINF:-1 tvg-id="zagorodnyy@SD" tvg-chno="1410" group-title="Lifestyle",Загородный
+https://s1.iptv-24.net/1410/index.m3u8
+#EXTINF:-1 tvg-id="moya_planeta@HD" tvg-chno="1247" group-title="Documentary",Моя планета
+https://s1.iptv-24.net/1247/index.m3u8
+#EXTINF:-1 tvg-id="fashion_tv@SD" tvg-chno="1053" group-title="Lifestyle",Fashion TV
+https://s1.iptv-24.net/1053/index.m3u8
+#EXTINF:-1 tvg-id="zdorovoe_tv@SD" tvg-chno="1428" group-title="Lifestyle",Здоровое ТВ
+https://s1.iptv-24.net/1428/index.m3u8
+#EXTINF:-1 tvg-id="jivi@SD" tvg-chno="1419" group-title="Lifestyle",Живи
+https://s1.iptv-24.net/1419/index.m3u8
+#EXTINF:-1 tvg-id="jivi_aktivno@HD" tvg-chno="1405" group-title="Lifestyle",Живи активно
+https://s1.iptv-24.net/1405/index.m3u8
+#EXTINF:-1 tvg-id="life_hd@HD" tvg-chno="1222" group-title="Lifestyle",Life HD
+https://s1.iptv-24.net/1222/index.m3u8
+#EXTINF:-1 tvg-id="priklyucheniya@SD" tvg-chno="1420" group-title="Entertainment",Приключения
+https://s1.iptv-24.net/1420/index.m3u8
+#EXTINF:-1 tvg-id="glazami_turista@HD" tvg-chno="1423" group-title="Lifestyle",Глазами Туриста
+https://s1.iptv-24.net/1423/index.m3u8
+#EXTINF:-1 tvg-id="bbc_world@SD" tvg-chno="1251" group-title="News",BBC-World
+https://s1.iptv-24.net/1251/index.m3u8
+#EXTINF:-1 tvg-id="cnn@SD" tvg-chno="1259" group-title="News",CNN
+https://s1.iptv-24.net/1259/index.m3u8
+#EXTINF:-1 tvg-id="fox_news@HD" tvg-chno="1252" group-title="News",FOX-NEWS
+https://s1.iptv-24.net/1252/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg@SD" tvg-chno="1255" group-title="News",Bloomberg
+https://s1.iptv-24.net/1255/index.m3u8
+#EXTINF:-1 tvg-id="cgtn@SD" tvg-chno="1253" group-title="News",CGTN
+https://s1.iptv-24.net/1253/index.m3u8
+#EXTINF:-1 tvg-id="dw_english@HD" tvg-chno="1418" group-title="News",DW English
+https://s1.iptv-24.net/1418/index.m3u8
+#EXTINF:-1 tvg-id="france24@HD" tvg-chno="1241" group-title="News",France24
+https://s1.iptv-24.net/1241/index.m3u8
+#EXTINF:-1 tvg-id="nhk_world_japan@HD" tvg-chno="1449" group-title="News",NHK World Japan
+https://s1.iptv-24.net/1449/index.m3u8
+#EXTINF:-1 tvg-id="kbs_world_hd@HD" tvg-chno="1448" group-title="News",KBS World HD
+https://s1.iptv-24.net/1448/index.m3u8
+#EXTINF:-1 tvg-id="trt_haber@SD" tvg-chno="1257" group-title="News",TRT HABER
+https://s1.iptv-24.net/1257/index.m3u8
+#EXTINF:-1 tvg-id="mir@SD" tvg-chno="1218" group-title="Russian",Мир
+https://s1.iptv-24.net/1218/index.m3u8
+#EXTINF:-1 tvg-id="mir24@HD" tvg-chno="1219" group-title="News",Мир24
+https://s1.iptv-24.net/1219/index.m3u8
+#EXTINF:-1 tvg-id="qazaqstan_tv@SD" tvg-chno="1431" group-title="Kazakh",Qazaqstan TV
+https://s1.iptv-24.net/1431/index.m3u8
+#EXTINF:-1 tvg-id="xabar_24_kz@HD" tvg-chno="1408" group-title="Kazakh",Хабар 24 KZ
+https://s1.iptv-24.net/1408/index.m3u8
+#EXTINF:-1 tvg-id="tugan_tel@SD" tvg-chno="1261" group-title="Russian",Tugan Tel
+https://s1.iptv-24.net/1261/index.m3u8
+#EXTINF:-1 tvg-id="trt_avaz@HD" tvg-chno="1258" group-title="Turkish",TRT AVAZ
+https://s1.iptv-24.net/1258/index.m3u8
+#EXTINF:-1 tvg-id="trt_music@SD" tvg-chno="1208" group-title="Music",TRT Music
+https://s1.iptv-24.net/1208/index.m3u8
+#EXTINF:-1 tvg-id="ru_tv@SD" tvg-chno="1202" group-title="Music",Ру тв
+https://s1.iptv-24.net/1202/index.m3u8
+#EXTINF:-1 tvg-id="muz_tv@SD" tvg-chno="1200" group-title="Music",Муз-тв
+https://s1.iptv-24.net/1200/index.m3u8
+#EXTINF:-1 tvg-id="muzyka_pervogo@SD" tvg-chno="1201" group-title="Music",Музыка первого
+https://s1.iptv-24.net/1201/index.m3u8
+#EXTINF:-1 tvg-id="lya_minor@SD" tvg-chno="1238" group-title="Music",Ля Минор
+https://s1.iptv-24.net/1238/index.m3u8
+#EXTINF:-1 tvg-id="uzbekistan@SD" tvg-chno="1001" group-title="Uzbek",Ўзбекистон
+https://s1.iptv-24.net/1001/index.m3u8
+#EXTINF:-1 tvg-id="yoshlar@SD" tvg-chno="1002" group-title="Uzbek",Yoshlar
+https://s1.iptv-24.net/1002/index.m3u8
+#EXTINF:-1 tvg-id="toshkent@SD" tvg-chno="1003" group-title="Uzbek",Тошкент
+https://s1.iptv-24.net/1003/index.m3u8
+#EXTINF:-1 tvg-id="o_zbekiston_24_hd@HD" tvg-chno="1011" group-title="Uzbek",O'zbekiston 24 HD
+https://s1.iptv-24.net/1011/index.m3u8
+#EXTINF:-1 tvg-id="sevimli@HD" tvg-chno="1017" group-title="Uzbek",Sevimli
+https://s1.iptv-24.net/1017/index.m3u8
+#EXTINF:-1 tvg-id="milliy_sd@SD" tvg-chno="1216" group-title="Uzbek",Milliy SD
+https://s1.iptv-24.net/1216/index.m3u8
+#EXTINF:-1 tvg-id="mening_yurtim@HD" tvg-chno="1012" group-title="Uzbek",MY5 HD
+https://s1.iptv-24.net/1012/index.m3u8
+#EXTINF:-1 tvg-id="my5_sd@SD" tvg-chno="1217" group-title="Uzbek",MY5 SD
+https://s1.iptv-24.net/1217/index.m3u8
+#EXTINF:-1 tvg-id="mezzo_live_hd@SD" tvg-chno="1238" group-title="Music",МУЗЫКА LIVE
+https://s1.iptv-24.net/1238/index.m3u8
+#EXTINF:-1 tvg-id="mydaytv@HD" tvg-chno="1265" group-title="Uzbek",MYDAYTV
+https://s1.iptv-24.net/1265/index.m3u8
+#EXTINF:-1 tvg-id="renessans_tv@SD" tvg-chno="1221" group-title="Uzbek",Renessans TV
+https://s1.iptv-24.net/1221/index.m3u8
+#EXTINF:-1 tvg-id="bolajon@SD" tvg-chno="1007" group-title="Kids",Bolajon
+https://s1.iptv-24.net/1007/index.m3u8
+#EXTINF:-1 tvg-id="aqlvoy@SD" tvg-chno="1205" group-title="Kids",Aqlvoy
+https://s1.iptv-24.net/1205/index.m3u8
+#EXTINF:-1 tvg-id="biztv@SD" tvg-chno="1211" group-title="Uzbek",BizTV
+https://s1.iptv-24.net/1211/index.m3u8
+#EXTINF:-1 tvg-id="dasturxontv@HD" tvg-chno="1206" group-title="Lifestyle",DasturxonTV
+https://s1.iptv-24.net/1206/index.m3u8
+#EXTINF:-1 tvg-id="muztv_uz@SD" tvg-chno="1063" group-title="Music",MuzTV UZ
+https://s1.iptv-24.net/1063/index.m3u8
+#EXTINF:-1 tvg-id="navo@SD" tvg-chno="1008" group-title="Music",Navo
+https://s1.iptv-24.net/1008/index.m3u8
+#EXTINF:-1 tvg-id="madaniyat_va_ma_rifat@SD" tvg-chno="1005" group-title="Uzbek",Madaniyat va Ma'rifat
+https://s1.iptv-24.net/1005/index.m3u8
+#EXTINF:-1 tvg-id="mahalla@SD" tvg-chno="1013" group-title="Uzbek",Mahalla
+https://s1.iptv-24.net/1013/index.m3u8
+#EXTINF:-1 tvg-id="kinoteatr@SD" tvg-chno="1009" group-title="Movies",Kinoteatr
+https://s1.iptv-24.net/1009/index.m3u8
+#EXTINF:-1 tvg-id="o_zbekiston_tarixi_hd@HD" tvg-chno="1209" group-title="Documentary",O'zbekiston tarixi HD
+https://s1.iptv-24.net/1209/index.m3u8
+#EXTINF:-1 tvg-id="dunyo_bo_ylab@SD" tvg-chno="1006" group-title="Documentary",Dunyo bo'ylab
+https://s1.iptv-24.net/1006/index.m3u8
+#EXTINF:-1 tvg-id="uzreport_hd@HD" tvg-chno="1015" group-title="News",Uzreport HD
+https://s1.iptv-24.net/1015/index.m3u8
+#EXTINF:-1 tvg-id="taraqqiyot_tv@SD" tvg-chno="1204" group-title="Uzbek",Taraqqiyot TV
+https://s1.iptv-24.net/1204/index.m3u8
+#EXTINF:-1 tvg-id="s_ikbol@SD" tvg-chno="1282" group-title="Uzbek",S-Ikbol
+https://s1.iptv-24.net/1282/index.m3u8
+#EXTINF:-1 tvg-id="gold_television@SD" tvg-chno="4007" group-title="Uzbek",Gold Television
+https://s1.iptv-24.net/4007/index.m3u8
+#EXTINF:-1 tvg-id="ruxsor_tv@HD" tvg-chno="4008" group-title="Uzbek",Ruxsor TV
+https://s1.iptv-24.net/4008/index.m3u8
+#EXTINF:-1 tvg-id="lux_tv@HD" tvg-chno="1210" group-title="Uzbek",LUX.TV
+https://s1.iptv-24.net/1210/index.m3u8
+#EXTINF:-1 tvg-id="biz_cinema@SD" tvg-chno="1213" group-title="Movies",Biz Cinema
+https://s1.iptv-24.net/1213/index.m3u8
+#EXTINF:-1 tvg-id="biz_music@HD" tvg-chno="1212" group-title="Music",Biz Music
+https://s1.iptv-24.net/1212/index.m3u8
+#EXTINF:-1 tvg-id="ntv_uz@SD" tvg-chno="1284" group-title="Uzbek",NTV UZ
+https://s1.iptv-24.net/1284/index.m3u8
+#EXTINF:-1 tvg-id="ftv@HD" tvg-chno="1018" group-title="Uzbek",FTV
+https://s1.iptv-24.net/1018/index.m3u8
+#EXTINF:-1 tvg-id="istiqlol_tv@SD" tvg-chno="1283" group-title="Uzbek",Istiqlol TV
+https://s1.iptv-24.net/1283/index.m3u8
+#EXTINF:-1 tvg-id="nurafshon_tv@SD" tvg-chno="1220" group-title="Uzbek",Nurafshon TV
+https://s1.iptv-24.net/1220/index.m3u8
+#EXTINF:-1 tvg-id="makon_tv@HD" tvg-chno="1497" group-title="Uzbek",Makon TV
+https://s1.iptv-24.net/1497/index.m3u8
+#EXTINF:-1 tvg-id="s_cinema@HD" tvg-chno="1498" group-title="Movies",S Cinema
+https://s1.iptv-24.net/1498/index.m3u8
+#EXTINF:-1 tvg-id="az_tv@SD" tvg-chno="1455" group-title="Azerbaijani",Az TV
+https://s1.iptv-24.net/1455/index.m3u8
+#EXTINF:-1 tvg-id="futbol_tv@SD" tvg-chno="1010" group-title="Sports",Futbol TV
+https://s1.iptv-24.net/1010/index.m3u8
+#EXTINF:-1 tvg-id="smusic@HD" tvg-chno="1476" group-title="Music",SMusic
+https://s1.iptv-24.net/1476/index.m3u8
+#EXTINF:-1 tvg-id="aj_arabic@HD" tvg-chno="1499" group-title="Uzbek",Denov TV
+https://s1.iptv-24.net/1499/index.m3u8
+#EXTINF:-1 tvg-id="ttv@SD" tvg-chno="1494" group-title="Uzbek",TTV
+https://s1.iptv-24.net/1494/index.m3u8
+#EXTINF:-1 tvg-id="ttv_kino@SD" tvg-chno="1486" group-title="Movies",TTV Kino
+https://s1.iptv-24.net/1486/index.m3u8
+#EXTINF:-1 tvg-id="vodiy_tv@SD" tvg-chno="4012" group-title="Uzbek",Vodiy TV
+https://s1.iptv-24.net/4012/index.m3u8
+#EXTINF:-1 tvg-id="jaslar_tv@SD" tvg-chno="1490" group-title="Uzbek",Jaslar tv
+https://s1.iptv-24.net/1490/index.m3u8
+#EXTINF:-1 tvg-id="shifo_tv@SD" tvg-chno="1469" group-title="Lifestyle",Shifo TV
+https://s1.iptv-24.net/1469/index.m3u8
+#EXTINF:-1 tvg-id="nasaf_tv@SD" tvg-chno="2025" group-title="Sports",Nasaf tv
+https://s1.iptv-24.net/2025/index.m3u8
+#EXTINF:-1 tvg-id="cgtn_rus@HD" tvg-chno="1456" group-title="News",CGTN Rus
+https://s1.iptv-24.net/1456/index.m3u8
+#EXTINF:-1 tvg-id="mimi_tv@SD" tvg-chno="1470" group-title="Kids",Mimi TV
+https://s1.iptv-24.net/1470/index.m3u8
+#EXTINF:-1 tvg-id="ishonch_tv@SD" tvg-chno="1489" group-title="Uzbek",Ishonch TV
+https://s1.iptv-24.net/1489/index.m3u8
+#EXTINF:-1 tvg-id="futboltv@SD" tvg-chno="1496" group-title="Sports",8TV
+https://s1.iptv-24.net/1496/index.m3u8
+#EXTINF:-1 tvg-id="8tv@SD" tvg-chno="1262" group-title="Uzbek",8TV
+https://s1.iptv-24.net/1262/index.m3u8
+#EXTINF:-1 tvg-id="ellikqala_tv@SD" tvg-chno="1495" group-title="Uzbek",Ellikqala TV
+https://s1.iptv-24.net/1495/index.m3u8
+#EXTINF:-1 tvg-id="muloqot_tv@SD" tvg-chno="1285" group-title="Uzbek",Muloqot tv
+https://s1.iptv-24.net/1285/index.m3u8
+#EXTINF:-1 tvg-id="qaraqalpaqstan@SD" tvg-chno="1467" group-title="Uzbek",Qaraqalpaqstan
+https://s1.iptv-24.net/1467/index.m3u8
+#EXTINF:-1 tvg-id="fergana@SD" tvg-chno="1458" group-title="Uzbek",Fergana
+https://s1.iptv-24.net/1458/index.m3u8
+#EXTINF:-1 tvg-id="surxondaryo@SD" tvg-chno="1463" group-title="Uzbek",Surxondaryo
+https://s1.iptv-24.net/1463/index.m3u8
+#EXTINF:-1 tvg-id="xorazm@SD" tvg-chno="1464" group-title="Uzbek",Xorazm
+https://s1.iptv-24.net/1464/index.m3u8
+#EXTINF:-1 tvg-id="andijon@SD" tvg-chno="1457" group-title="Uzbek",Andijon
+https://s1.iptv-24.net/1457/index.m3u8
+#EXTINF:-1 tvg-id="samarqand@SD" tvg-chno="1468" group-title="Uzbek",Samarqand
+https://s1.iptv-24.net/1468/index.m3u8
+#EXTINF:-1 tvg-id="live_tv@SD" tvg-chno="1460" group-title="Uzbek",Navoi
+https://s1.iptv-24.net/1460/index.m3u8
+#EXTINF:-1 tvg-id="jizzax@SD" tvg-chno="1465" group-title="Uzbek",Jizzax
+https://s1.iptv-24.net/1465/index.m3u8
+#EXTINF:-1 tvg-id="qashqadaryo@SD" tvg-chno="1461" group-title="Uzbek",Qashqadaryo
+https://s1.iptv-24.net/1461/index.m3u8
+#EXTINF:-1 tvg-id="sirdaryo@SD" tvg-chno="1462" group-title="Uzbek",Sirdaryo
+https://s1.iptv-24.net/1462/index.m3u8
+#EXTINF:-1 tvg-id="namangan@SD" tvg-chno="1466" group-title="Uzbek",Namangan
+https://s1.iptv-24.net/1466/index.m3u8
+#EXTINF:-1 tvg-id="buxoro@SD" tvg-chno="1459" group-title="Uzbek",Buxoro
+https://s1.iptv-24.net/1459/index.m3u8
+#EXTINF:-1 tvg-id="amudaryo_tv@SD" tvg-chno="1491" group-title="Uzbek",Amudaryo TV
+https://s1.iptv-24.net/1491/index.m3u8
+#EXTINF:-1 tvg-id="jizzax_tv@SD" tvg-chno="1488" group-title="Uzbek",Jizzax TV
+https://s1.iptv-24.net/1488/index.m3u8
