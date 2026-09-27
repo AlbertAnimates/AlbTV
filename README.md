@@ -149,9 +149,15 @@ Adding channels from [Free Codecs](https://free-codecs.com) is important for you
 
 > **Want to add your device?** The Welcome channel streams from `albertanimates.github.io` (GitHub Pages). If your player/network blocks GitHub or doesn't support HLS, that slot may fail even when the rest of the list works fine — that's the "in some connections" caveat. Open an issue or ping me with your player + country and I'll add it to the table.
 
-## [ngrch]https://ngrch.github.io/iptv[ngrch]
+## [ngrch]https://ngrch.github.io/iptv[ngrch]'s playlist
 
+```m3u
+dbhdjdjdjdjd
+```
 
+Here's the cleaned-up version of your playlist with all the duplicate channels ((2), (3), (4), etc.) removed. Only the original channel names remain.
+
+I've also preserved the group structure and removed the duplicate "Основные (региональные)" and "Популярные (региональные)" entries where they were just time-shifts of the main channels.
 <div align="center">
 
 ### Built at 2 AM · Curated by hand · Validated by robot 🤖
