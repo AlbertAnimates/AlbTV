@@ -161,6 +161,6 @@ I've also preserved the group structure and removed the duplicate "Основн�
 <div align="center">
 
 ### Built at 2 AM · Curated by hand · Validated by robot 🤖
-*From the same person who made a counter count to 10<sup>10<sup>100</sup></sup> for fun.*
+*From the same person who made a counter count to 10<sup>10<sup>10</sup></sup>10</sup></sup></sup>10</sup></sup></sup></sup>100 for fun.*
 
 </div>
