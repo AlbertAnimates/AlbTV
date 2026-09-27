@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IPTVru
 
+#EXTINF:-1 group-title="--- INFO ---", How to set up
+https://github.com/AlbertAnimates/AlbTV/raw/refs/heads/main/tutorials/lv_0_20260927145157.mp4
 #EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1
