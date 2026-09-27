@@ -3,6 +3,12 @@
 
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" timeshift="8", Первый 8H
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый FHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч!
@@ -41,7 +47,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (+1)
@@ -66,7 +71,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png", ТВ Центр International
 https://stream8.cinerama.uz/1281/index.m3u8
-
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png", Победа
@@ -147,7 +151,6 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png", Мир International
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
-
 #EXTINF:-1 group-title="Информационные", РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
@@ -188,7 +191,6 @@ http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Союзный
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
-
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультфильмы
@@ -249,7 +251,6 @@ https://stream8.cinerama.uz/1445/index.m3u8
 https://stream8.cinerama.uz/1406/index.m3u8
 #EXTINF:-1 group-title="Детские", Плюс минус 16
 https://media.16pm.ru/live/index.m3u8
-
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
