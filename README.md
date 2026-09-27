@@ -55,6 +55,14 @@ https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/russia.m3u
 ```
 https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/albanian.m3u
 ```
+### If you want to suffer, here it is lol:
+```
+https://raw.githubusercontent.com/AlbertAnimates/AlbTV/refs/heads/main/mega-playlist.m3u
+```
+> Shh... If you are on TV:
+>> 1. (Android) Download this zip, extract it from any file manager in Play Store
+>> 2. (Other Smart TVs) Get a Bluetooth or USB keyboard and press the copy button with your remote, and press `Ctrl+V` to paste the m3u.
+>>> uhm what
 
 Want just one region?
 | Playlist | Channels | Link |
