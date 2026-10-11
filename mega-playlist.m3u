@@ -5,7 +5,17 @@
 https://github.com/AlbertAnimates/AlbTV/raw/refs/heads/main/tutorials/lv_0_20260927145157.mp4
 #EXTINF:-1 group-title="--- INFO ---", Tutorial
 https://github.com/AlbertAnimates/AlbTV/raw/refs/heads/main/tutorials/Tutorialgithub.mp4
-#EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" group-title="nrgch: Основные" catchup="default" catchup-source="?utc={utc}&lutc={lutc}" catchup-days="7" tvg-shift="0" aspect-ratio="16:9",Первый (PERFECT STREAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.1tv.ru/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:audio-desync=0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTGRP:nrgch: Основные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -45,6 +55,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="nrgch: Основные" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
 #EXTINF:-1 group-title="nrgch: Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png", Первый (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
