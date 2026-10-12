@@ -1,43 +1,13 @@
-# AlbTV
-Welcome to AlbTV, the power of streaming IPTV channels. All streams are from IPTV-ORG : free legit streams.
-
-<div align="center">
-
 # 📡 AlbTV IPTV
-### *147+ free channels. One penny a year. Zero pirated streams.*
+### *3000+* free channels. One penny a year. Zero pirated streams.*
 
 ![Channels](https://img.shields.io/badge/channels-514-brightgreen?style=for-the-badge)
-![Countries](https://img.shields.io/badge/countries-15-blue?style=for-the-badge)
-![Last Validated](https://img.shields.io/badge/last%20validated-today-success?style=for-the-badge)
-![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=for-the-badge)
-![Streams via](https://img.shields.io/badge/streams%20via-iptv--org-orange?style=for-the-badge)
-![Pirated streams](https://img.shields.io/badge/pirated%20streams-0-red?style=for-the-badge)
-![Price](https://img.shields.io/badge/price-free%20forever-yellow?style=for-the-badge)
-![Pre-release](https://img.shields.io/badge/status-pre--release%200.4.5-yellowgreen?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/AlbertAnimates/AlbTV?style=for-the-badge)
 
 <p align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/kz.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/kg.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/tj.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/uz.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/tm.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/am.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/az.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/ge.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/md.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/lv.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48">
-  <img src="https://hatscripts.github.io/circle-flags/flags/lt.svg" width="48">
-  &nbsp;&nbsp;
-  <img src="https://hatscripts.github.io/circle-flags/flags/al.svg" width="48">
-</p>
 
 <p align="center">
-  <strong>15 countries · ~514 channels · Albanian 🇦🇱 + the Russian-speaking world</strong><br>
+  <strong>15 countries · 3000+ channels · Albanian 🇦🇱 + the Russian-speaking world</strong><br>
   Hand-curated from public broadcasters · validated nightly · zero pirated streams · forever free
 </p>
 ---
@@ -51,11 +21,9 @@ Grab the playlist and paste it into any player (VLC, CODECS, TiviMate, or whatev
 ```
 https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/russia.m3u
 ```
-
 ```
 https://raw.githubusercontent.com/AlbertAnimates/AlbTV/main/albanian.m3u
 ```
-### If you want to suffer, here it is lol:
 ```
 https://raw.githubusercontent.com/AlbertAnimates/AlbTV/refs/heads/main/mega-playlist.m3u
 ```
@@ -63,17 +31,9 @@ https://raw.githubusercontent.com/AlbertAnimates/AlbTV/refs/heads/main/mega-play
 >> 1. (Android) Download this zip, extract it from any file manager in Play Store
 >> 2. (Other Smart TVs) Get a Bluetooth or USB keyboard and press the copy button with your remote, and press `Ctrl+V` to paste the m3u.
 >>> uhm what
-
-Want just one region?
-| Playlist | Channels | Link |
-|---|---|---|
-| 🇱 Albania | ~TBD | [`albania.m3u`](playlists/albania.m3u) |
-| 🇷 Russia | 147+ | [`russia.m3u`](playlists/russia.m3u) |
-| 🌍 Everything | all | [`all.m3u`](playlists/all.m3u) |
-
+>>>> quadruple quote!!
 ---
-
-## 💸 Wait, $0.01/year?
+## 💸 Wait, $0/year?
 Yep. **Zero cents.** Cheaper than AlbTV, cheaper than TV.Team, cheaper than the electricity to load this page.
 You can't subscribe for less without it being literally free — and we wanted it to be *technically* a transaction. 😄
 > The curation is the product. The delivery is free. The price is a joke. Pick two... we picked all three.
@@ -106,25 +66,12 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 > - Availability varies by region and changes constantly — that's why the nightly bot exists.
 > - Not affiliated with iptv-org, AlbTV, TV.Team, or any broadcaster.
 > - Check your local laws regarding IPTV playlist use.
-
 ---
-
 ## 📺 It actually works
-*Real photos — AlbTV running on a Hisense TV via the CUB IPTV app, 16 August 2026.*
-
-| Loading the playlist | 203 channels, categorized | Russia-K in 1080p |
-|---|---|---|
-| ![load](1-load.jpg) | ![guide](2-guide.jpg) | ![play](3-russiak.jpg) |
-
-| Channel list with honest tags | On the living-room wall |
-|---|---|
-| ![list](4-list.jpg) | ![wall](5-wall.jpg) |
-
+*We must have the mission to create a playlist larger than DropTV.*
+We are almost ½ to the road!
 ---
-
-
 ## ❔ FAQ
-
 ### Where the channels came from?
 All channels come from the open-source iptv-org/iptv project on GitHub - a community-maintained database of publicly available, legal IPTV streams from broadcasters worldwide. The database contains streams that broadcasters themselves make publicly accessible online, such as news organisations, public broadcasters and government channels. Streams are not hosted on our servers and we have no control over their availability.
 
