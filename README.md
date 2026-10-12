@@ -1,7 +1,8 @@
 # 📡 AlbTV IPTV
 ### *3000+* free channels. One penny a year. Zero pirated streams.*
 
-![Channels](https://img.shields.io/badge/channels-514-brightgreen?style=for-the-badge)
+![Channels](https://img.shields.io/badge/channels-3000+-brightgreen?style=for-the-badge)
+![Free](https://img.shields.io/badge/free-∞-yellow?style=for-the-badge)
 
 <p align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
