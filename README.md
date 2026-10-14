@@ -59,7 +59,8 @@ Most free IPTV lists are **dead in two weeks**. Ours isn't, because a bot does t
 - ✔ **Geo-block warnings** instead of silent buffering — if it won't play in your country, the list tells you
 - ✔ **Category tags** (`group-title`) — Sports, News, Kids, Movies, Music… already sorted
 - ✔ Streams sourced from **[iptv-org](https://github.com/iptv-org/iptv)** & Free-TV — we host the *list*, never the video
-
+> [!NOTE]
+> Some streams contains premium movies and sports, so enjoy while it lasts
 ---
 
 ## ⚠️ Honest disclaimers
